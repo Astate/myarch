@@ -1,9 +1,0 @@
-###### Progress log entry 2017-03-17 17:59:45 ######
-###### Progress log entry 2017-03-20 20:26:04 ######
-###### Progress log entry 2017-04-07 17:55:09 ######
-Reinstalling all deployed packages...
-###### Progress log entry 2017-04-07 17:55:11 ######
-###### Progress log entry 2017-04-07 17:55:26 ######
-###### Progress log entry 2017-04-17 13:35:19 ######
-Reinstalling all deployed packages...
-###### Progress log entry 2017-04-17 13:35:21 ######

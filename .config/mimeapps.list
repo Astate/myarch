@@ -1,5 +1,0 @@
-[Added Associations]
-application/x-desktop=org.kde.kate.desktop;org.kde.kwrite.desktop;okularApplication_txt.desktop;org.kde.calligrawords_ascii.desktop;vim.desktop;
-
-[Default Applications]
-application/x-desktop=org.kde.kate.desktop;

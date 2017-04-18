@@ -1,9 +1,0 @@
-# /home/mastarch/.config/systemd/user/barberie.timer
-[Unit]
-Description=Timer to grab Barberie deal
-[Timer]
-OnCalendar=*-*-* 08:00:00
-# Optional
-Persistent=true
-[Install]
-WantedBy=timers.target
