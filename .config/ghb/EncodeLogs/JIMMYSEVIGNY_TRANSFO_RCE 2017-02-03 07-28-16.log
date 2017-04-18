@@ -1,0 +1,289 @@
+Handbrake Version: 20170123054450-b656a1a-master (2017012301)
+[07:28:16] gtkgui: Modified Preset: /General/Fast 1080p30
+[07:28:16] 1 job(s) to process
+[07:28:16] json job:
+{
+    "Audio": {
+        "AudioList": [
+            {
+                "Bitrate": 160,
+                "CompressionLevel": -1.0,
+                "DRC": 0.0,
+                "DitherMethod": "auto",
+                "Encoder": "av_aac",
+                "Gain": 0.0,
+                "Mixdown": "stereo",
+                "NormalizeMixLevel": false,
+                "PresetEncoder": "av_aac",
+                "Quality": -3.0,
+                "Samplerate": "auto",
+                "Track": 0
+            }
+        ],
+        "CopyMask": [
+            "copy:aac"
+        ],
+        "FallbackEncoder": "av_aac"
+    },
+    "Destination": {
+        "ChapterList": [
+            {
+                "Name": "Chapter 1"
+            },
+            {
+                "Name": "Chapter 2"
+            },
+            {
+                "Name": "Chapter 3"
+            },
+            {
+                "Name": "Chapter 4"
+            },
+            {
+                "Name": "Chapter 5"
+            }
+        ],
+        "ChapterMarkers": true,
+        "File": "/home/mastarch/Vidéos/JIMMYSEVIGNY_TRANSFO_RCE.mkv",
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": false
+        },
+        "Mux": "mkv"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 3,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 4,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 2,
+                    "rate": "27000000/900000"
+                }
+            },
+            {
+                "ID": 11,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 480,
+                    "width": 720
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "Name": "JIMMYSEVIGNY_TRANSFO_RCE"
+    },
+    "PAR": {
+        "Den": 27,
+        "Num": 32
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/media/HD/Series/Jimmy Sévigny transFORMation/JIMMYSEVIGNY_TRANSFO_RCE.ISO",
+        "Range": {
+            "End": 5,
+            "Start": 1,
+            "Type": "chapter"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": false,
+            "Forced": false
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorMatrixCode": 0,
+        "Encoder": "x264",
+        "Level": "4.0",
+        "OpenCL": false,
+        "Options": "",
+        "Preset": "fast",
+        "Profile": "main",
+        "QSV": {
+            "AsyncDepth": 4,
+            "Decode": false
+        },
+        "Quality": 22.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[07:28:16] CPU: AMD Athlon(tm) II X4 630 Processor
+[07:28:16]  - logical processor count: 4
+[07:28:16] hb_scan: path=/media/HD/Series/Jimmy Sévigny transFORMation/JIMMYSEVIGNY_TRANSFO_RCE.ISO, title_index=1
+disc.c:352: error opening file BDMV/index.bdmv
+disc.c:352: error opening file BDMV/BACKUP/index.bdmv
+[07:28:16] bd: not a bd - trying as a stream/file instead
+libdvdnav: Using dvdnav version 5.0.1
+libdvdread: Encrypted DVD support unavailable.
+libdvdnav: DVD Title: JIMMYSEVIGNY_TRANSFO_RCE
+libdvdnav: DVD Serial Number: 495fb4cc        
+libdvdnav: DVD Title (Alternative): JIMMYSEVIGNY_TRANSFO_RCE
+libdvdnav: DVD disk reports itself with Region mask 0x00000000. Regions: 1 2 3 4 5 6 7 8
+libdvdread: Encrypted DVD support unavailable.
+[07:28:16] scan: DVD has 5 title(s)
+[07:28:16] scan: scanning title 1
+[07:28:16] scan: opening IFO for VTS 1
+[07:28:16] scan: duration is 00:31:01 (1861800 ms)
+[07:28:16] pgc_id: 1, pgn: 1: pgc: 0x7f438000f800
+[07:28:16] scan: vts=1, ttn=1, cells=0->4, blocks=0->1023192, 1023193 blocks
+[07:28:16] scan: checking audio 1
+[07:28:16] scan: id=0x80bd, lang=Unknown (AC3), 3cc=und ext=0
+[07:28:16] scan: checking audio 2
+[07:28:16] scan: id=0x81bd, lang=Unknown (AC3), 3cc=und ext=0
+[07:28:16] scan: title 1 has 5 chapters
+[07:28:16] scan: chap 1 c=0->0, b=0->112543 (112544), 204000 ms
+[07:28:16] scan: chap 2 c=1->1, b=112544->497696 (385153), 691500 ms
+[07:28:16] scan: chap 3 c=2->2, b=497697->903344 (405648), 729500 ms
+[07:28:16] scan: chap 4 c=3->3, b=903345->1023186 (119842), 236400 ms
+[07:28:16] scan: chap 5 c=4->4, b=1023187->1023192 (6), 400 ms
+[07:28:16] scan: aspect = 16:9
+[07:28:16] scan: decoding previews for title 1
+libdvdnav: DVD disk reports itself with Region mask 0x00000000. Regions: 1 2 3 4 5 6 7 8
+[07:28:16] scan: title angle(s) 1
+[ac3 @ 0x7f4380136120] frame sync error
+[ac3 @ 0x7f4380136900] frame sync error
+[ac3 @ 0x7f438012e2e0] frame sync error
+[07:28:16] scan: audio 0x81bd: ac3, rate=48000Hz, bitrate=448000 Unknown (AC3) (2.0 ch)
+[ac3 @ 0x7f438012e2e0] frame sync error
+[07:28:16] scan: audio 0x80bd: ac3, rate=48000Hz, bitrate=448000 Unknown (AC3) (2.0 ch)
+[07:28:16] scan: 10 previews, 720x480, 29,970 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 32:27
+[07:28:16] libhb: scan thread found 1 valid title(s)
+[07:28:16] starting job
+[07:28:16] decomb filter thread started for segment 0
+[07:28:16] decomb filter thread started for segment 1
+[07:28:16] decomb filter thread started for segment 2
+[07:28:16] decomb filter thread started for segment 3
+[07:28:16] decomb check thread started for segment 0
+[07:28:16] decomb check thread started for segment 1
+[07:28:16] decomb check thread started for segment 2
+[07:28:16] decomb check thread started for segment 3
+[07:28:16] mask filter thread started for segment 0
+[07:28:16] mask filter thread started for segment 1
+[07:28:16] mask filter thread started for segment 2
+[07:28:16] mask erode thread started for segment 0
+[07:28:16] mask erode thread started for segment 1
+[07:28:16] mask erode thread started for segment 2
+[07:28:16] mask erode thread started for segment 3
+[07:28:16] mask dilate thread started for segment 0
+[07:28:16] mask filter thread started for segment 3
+[07:28:16] mask dilate thread started for segment 1
+[07:28:16] mask dilate thread started for segment 3
+[07:28:16] mask dilate thread started for segment 2
+[07:28:16] yadif thread started for segment 0
+[07:28:16] yadif thread started for segment 1
+[07:28:16] yadif thread started for segment 2
+[07:28:16] yadif thread started for segment 3
+[07:28:16] job configuration:
+[07:28:16]  * source
+[07:28:16]    + /media/HD/Series/Jimmy Sévigny transFORMation/JIMMYSEVIGNY_TRANSFO_RCE.ISO
+[07:28:16]    + title 1, chapter(s) 1 to 5
+[07:28:16]  * destination
+[07:28:16]    + /home/mastarch/Vidéos/JIMMYSEVIGNY_TRANSFO_RCE.mkv
+[07:28:16]    + container: Matroska (libavformat)
+[07:28:16]      + chapter markers
+[07:28:16]  * video track
+[07:28:16]    + decoder: mpeg2video
+[07:28:16]      + bitrate 8500 kbps
+[07:28:16]    + filters
+[07:28:16]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[07:28:16]      + Decomb (mode=39)
+[07:28:16]      + Framerate Shaper (mode=2:rate=27000000/900000)
+[07:28:16]        + frame rate: 29,970 fps -> peak rate limited to 30,000 fps
+[07:28:16]      + Crop and Scale (width=720:height=480:crop-top=0:crop-bottom=0:crop-left=0:crop-right=0)
+[07:28:16]        + source: 720 * 480, crop (0/0/0/0): 720 * 480, scale: 720 * 480
+[07:28:16]    + Output geometry
+[07:28:16]      + storage dimensions: 720 x 480
+[07:28:16]      + pixel aspect ratio: 32 : 27
+[07:28:16]      + display dimensions: 853 x 480
+[07:28:16]    + encoder: H.264 (libx264)
+[07:28:16]      + preset:  fast
+[07:28:16]      + profile: main
+[07:28:16]      + level:   4.0
+[07:28:16]      + quality: 22,00 (RF)
+[07:28:16]  * audio track 1
+[07:28:16]    + decoder: Unknown (AC3) (2.0 ch) (track 1, id 0x80bd)
+[07:28:16]      + bitrate: 448 kbps, samplerate: 48000 Hz
+[07:28:16]    + mixdown: Stereo
+[07:28:16]    + encoder: AAC (libavcodec)
+[07:28:16]      + bitrate: 160 kbps, samplerate: 48000 Hz
+libdvdnav: Using dvdnav version 5.0.1
+libdvdread: Encrypted DVD support unavailable.
+libdvdnav: DVD Title: JIMMYSEVIGNY_TRANSFO_RCE
+libdvdnav: DVD Serial Number: 495fb4cc        
+libdvdnav: DVD Title (Alternative): JIMMYSEVIGNY_TRANSFO_RCE
+libdvdnav: DVD disk reports itself with Region mask 0x00000000. Regions: 1 2 3 4 5 6 7 8
+libdvdread: Encrypted DVD support unavailable.
+libdvdnav: DVD disk reports itself with Region mask 0x00000000. Regions: 1 2 3 4 5 6 7 8
+[07:28:16] sync: expecting 55798 video frames
+[07:28:16] encx264: min-keyint: 30, keyint: 300
+[07:28:16] encx264: encoding at constant RF 22,000000
+[07:28:16] encx264: unparsed options: level=4.0:ref=2:8x8dct=0:weightp=1:subme=6:vbv-bufsize=25000:vbv-maxrate=20000:rc-lookahead=30
+x264 [info]: using SAR=32/27
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast LZCNT
+x264 [info]: profile Main, level 4.0
+[07:28:16] sync: first pts audio 0x80bd is 0
+[07:28:16] sync: first pts video is 6006
+[07:28:16] sync: "Chapter 1" (1) at frame 1 time 6006
+[07:29:37] sync: "Chapter 2" (2) at frame 6121 time 18384366
+[07:34:12] sync: "Chapter 3" (3) at frame 26866 time 80681601
+[07:39:00] sync: "Chapter 4" (4) at frame 48751 time 146402256
+[07:40:24] reader: done. 1 scr changes
+[07:40:26] work: average encoding speed for job is 76,589546 fps
+[07:40:26] comb detect: heavy 1616 | light 2870 | uncombed 51353 | total 55839
+[07:40:26] decomb: deinterlaced 1616 | blended 2870 | unfiltered 51353 | total 55839
+[07:40:26] vfr: 55839 frames output, 0 dropped and 0 duped for CFR/PFR
+[07:40:26] vfr: lost time: 0 (0 frames)
+[07:40:26] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[07:40:26] ac3-decoder done: 58227 frames, 0 decoder errors
+[07:40:26] mpeg2video-decoder done: 55841 frames, 0 decoder errors
+[07:40:26] sync: got 55839 frames, 55798 expected
+[07:40:26] sync: framerate min 29,970 fps, max 29,970 fps, avg 29,970 fps
+x264 [info]: frame I:268   Avg QP:19,37  size: 31040
+x264 [info]: frame P:18626 Avg QP:22,63  size:  6618
+x264 [info]: frame B:36945 Avg QP:24,84  size:  1359
+x264 [info]: consecutive B-frames:  3,3% 12,9% 37,8% 46,1%
+x264 [info]: mb I  I16..4: 25,4%  0,0% 74,6%
+x264 [info]: mb P  I16..4:  2,2%  0,0%  3,6%  P16..4: 38,1% 17,5% 10,1%  0,0%  0,0%    skip:28,5%
+x264 [info]: mb B  I16..4:  1,4%  0,0%  0,1%  B16..8: 19,9%  5,6%  0,4%  direct: 7,2%  skip:65,3%  L0:37,8% L1:48,7% BI:13,5%
+x264 [info]: coded y,uvDC,uvAC intra: 44,0% 61,3% 22,4% inter: 8,2% 16,4% 1,0%
+x264 [info]: i16 v,h,dc,p: 29% 38% 20% 13%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 25% 21% 19%  5%  7%  7%  6%  5%  4%
+x264 [info]: i8c dc,h,v,p: 56% 21% 19%  4%
+x264 [info]: Weighted P-Frames: Y:0,5% UV:0,2%
+x264 [info]: ref P L0: 72,4% 27,6%
+x264 [info]: ref B L0: 84,0% 16,0%
+x264 [info]: ref B L1: 97,9%  2,1%
+x264 [info]: kb/s:780,49
+[07:40:26] mux: track 0, 55839 frames, 181766796 bytes, 780,41 kbps, fifo 4096
+[07:40:26] mux: track 1, 87341 frames, 37310664 bytes, 160,19 kbps, fifo 8192
+[07:40:26] libhb: work result = 0

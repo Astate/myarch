@@ -1,0 +1,242 @@
+[Desktop Entry]
+DefaultProfile=Shell.profile
+
+[DownloadDialog Settings]
+Height 1080=522
+Width 1920=700
+
+[Environment Settings]
+Default Environment Group=default
+Group List=default
+
+[External Scripts]
+firstUse=false
+
+[External Scripts][script 0]
+command=g++ -o %b %f && ./%b
+errorMode=0
+filterMode=0
+inputMode=0
+name=Compilation rapide
+outputMode=0
+saveMode=0
+shortcuts=
+showOutput=true
+
+[External Scripts][script 1]
+command=xdg-open "http://www.google.de/search?q=%s"
+errorMode=0
+filterMode=0
+inputMode=0
+name=Sélection Google
+outputMode=0
+saveMode=0
+shortcuts=
+showOutput=false
+
+[External Scripts][script 2]
+command=sort
+errorMode=0
+filterMode=0
+inputMode=2
+name=Trier une sélection
+outputMode=3
+saveMode=0
+shortcuts=
+showOutput=false
+
+[Favorite Profiles]
+Favorites=
+
+[KFileDialog Settings]
+Height 1080=540
+Width 1920=960
+
+[KatePart Settings]
+documents=/home/mastarch/projects/test/test.py,/home/mastarch/PycharmProjects/untitled/autocompile.py,/home/mastarch/PycharmProjects/untitled/autocompile/autocompile.py,/home/mastarch/projects/rochepapierciseau/rochepapierciseau.py,/home/mastarch/projects/Tonappart/__init__.py,/home/mastarch/projects/Tonappart/urls.py,/home/mastarch/projects/Tonappart/manage.py,/home/mastarch/projects/Tonappart/settings.py,/home/mastarch/projects/test/mainwindow.ui,/home/mastarch/projects/test/mainwindow.py
+
+[KatePart Settings][/home/mastarch/PycharmProjects/untitled/autocompile.py]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Python
+Highlighting Set By User=false
+Indentation Mode=python
+Mode=Python
+URL=file:///home/mastarch/PycharmProjects/untitled/autocompile.py
+
+[KatePart Settings][/home/mastarch/PycharmProjects/untitled/autocompile/autocompile.py]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Python
+Highlighting Set By User=false
+Indentation Mode=python
+Mode=Python
+URL=file:///home/mastarch/PycharmProjects/untitled/autocompile/autocompile.py
+
+[KatePart Settings][/home/mastarch/projects/Tonappart/__init__.py]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Python
+Highlighting Set By User=false
+Indentation Mode=python
+Mode=Python
+URL=file:///home/mastarch/projects/Tonappart/__init__.py
+
+[KatePart Settings][/home/mastarch/projects/Tonappart/manage.py]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Python
+Highlighting Set By User=false
+Indentation Mode=python
+Mode=Python
+Mode Set By User=false
+URL=file:///home/mastarch/projects/Tonappart/manage.py
+
+[KatePart Settings][/home/mastarch/projects/Tonappart/settings.py]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Python
+Highlighting Set By User=false
+Indentation Mode=python
+Mode=Python
+Mode Set By User=false
+URL=file:///home/mastarch/projects/Tonappart/settings.py
+
+[KatePart Settings][/home/mastarch/projects/Tonappart/urls.py]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Python
+Highlighting Set By User=false
+Indentation Mode=python
+Mode=Python
+URL=file:///home/mastarch/projects/Tonappart/urls.py
+
+[KatePart Settings][/home/mastarch/projects/rochepapierciseau/rochepapierciseau.py]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Python
+Highlighting Set By User=false
+Indentation Mode=python
+Mode=Python
+URL=file:///home/mastarch/projects/rochepapierciseau/rochepapierciseau.py
+
+[KatePart Settings][/home/mastarch/projects/test/mainwindow.py]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Python
+Highlighting Set By User=false
+Indentation Mode=python
+Mode=Python
+Mode Set By User=false
+URL=file:///home/mastarch/projects/test/mainwindow.py
+
+[KatePart Settings][/home/mastarch/projects/test/mainwindow.ui]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=XML
+Highlighting Set By User=false
+Indentation Mode=xml
+Mode=XML
+Mode Set By User=false
+URL=file:///home/mastarch/projects/test/mainwindow.ui
+
+[KatePart Settings][/home/mastarch/projects/test/test.py]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Python
+Highlighting Set By User=false
+Indentation Mode=python
+Mode=Python
+URL=file:///home/mastarch/projects/test/test.py
+
+[Language Support]
+highlightProblematicLines=true
+
+[Main Window]
+Desktop 1920 1080=0,29,1920,1015
+
+[MainWindow]
+Height 1080=781
+Height 900=567
+State=AAAA/wAAAAD9AAAAAwAAAAAAAADvAAADkPwCAAAABPsAAAAcAEQAbwBjAHUAbQBlAG4AdABzAF8AYwBvAGQAZQAAAABEAAADBQAAAHYBAAAD+wAAADAAUwB5AHMAdADoAG0AZQAgAGQAZQAgAGYAaQBjAGgAaQBlAHIAcwBfAGMAbwBkAGUAAAAARAAAAwUAAABkAQAAA/sAAAAYAEMAbABhAHMAcwBlAHMAXwBjAG8AZABlAAAAAEQAAAMFAAAAnAEAAAP7AAAAGABQAHIAbwBqAGUAdABzAF8AYwBvAGQAZQEAAABEAAADkAAAAAAAAAAAAAAAAQAAAVoAAAMF/AIAAAAC+wAAACoAUwBjAHIAaQBwAHQAcwAgAGUAeAB0AGUAcgBuAGUAcwBfAGMAbwBkAGUAAAAARAAAAwUAAAC4AQAAA/sAAAAkAEQAbwBjAHUAbQBlAG4AdABhAHQAaQBvAG4AXwBjAG8AZABlAAAAAEQAAAMFAAAARgEAAAMAAAADAAAHRAAAALL8AQAAAAT7AAAAMgBDAG8AbgB0AHIA9ABsAGUAIABkAGUAIAB2AGUAcgBzAGkAbwBuAHMAXwBjAG8AZABlAAAAAQ4AAAUUAAAAAAAAAAD7AAAAHABQAHIAbwBiAGwA6ABtAGUAcwBfAGMAbwBkAGUAAAABDgAABRQAAACvAQAAA/sAAAAuAE4AYQB2AGkAZwBhAHQAZQB1AHIAIABkAGUAIABjAG8AZABlAF8AYwBvAGQAZQAAAAEOAAAFFAAAAHYBAAAD+wAAABgASwBvAG4AcwBvAGwAZQBfAGMAbwBkAGUBAAAAHgAAB0QAAAAiAQAAAwAAB0QAAALdAAAABAAAAAQAAAABAAAAAvwAAAAEAAAAAAAAAAEAAAAsAEIAYQByAHIAZQAgAGQAdQAgAGIAbwB1AHQAbwBuACAAZwBhAHUAYwBoAGUDAAAAAP////8AAAAAAAAAAAAAAAEAAAABAAAAKgBCAGEAcgByAGUAIABkAHUAIABiAG8AdQB0AG8AbgAgAGQAcgBvAGkAdAMAAAAA/////wAAAAAAAAAAAAAAAgAAAAQAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIABxAHUAaQBjAGsATwBwAGUAbgBUAG8AbwBsAEIAYQByAQAAAw//////AAAAAAAAAAAAAAAsAEsARABlAHYAQwBvAGQAZQBiAHIAbwB3AHMAZQByAFQAbwBvAGwAQgBhAHIBAAAD9/////8AAAAAAAAAAAAAABgAZABlAGIAdQBnAFQAbwBvAGwAQgBhAHIBAAAFS/////8AAAAAAAAAAAAAAAMAAAABAAAALABCAGEAcgByAGUAIABkAHUAIABiAG8AdQB0AG8AbgAgAGQAdQAgAGIAYQBzAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1600=1058
+Width 1920=919
+Window-Maximized 1080x1920=true
+
+[MainWindow_code]
+(1) Tool Views Order=org.kdevelop.DocumentsView,org.kdevelop.ClassBrowserView,org.kdevelop.FileManagerView,org.kdevelop.ProjectsView
+(2) Tool Views Order=org.kdevelop.ExternalScriptView,org.kdevelop.DocumentationView
+(8) Tool Views Order=org.kdevelop.KonsoleView,org.kdevelop.ContextBrowser,org.kdevelop.ProblemReporterView
+Height 1080=781
+Height 900=781
+State=AAAA/wAAAAD9AAAAAwAAAAAAAADvAAADkPwCAAAABPsAAAAcAEQAbwBjAHUAbQBlAG4AdABzAF8AYwBvAGQAZQAAAABEAAADBQAAAHYBAAAD+wAAADAAUwB5AHMAdADoAG0AZQAgAGQAZQAgAGYAaQBjAGgAaQBlAHIAcwBfAGMAbwBkAGUAAAAARAAAAwUAAABkAQAAA/sAAAAYAEMAbABhAHMAcwBlAHMAXwBjAG8AZABlAAAAAEQAAAMFAAAAnAEAAAP7AAAAGABQAHIAbwBqAGUAdABzAF8AYwBvAGQAZQEAAABEAAADkAAAAAAAAAAAAAAAAQAAAVoAAAMF/AIAAAAC+wAAACoAUwBjAHIAaQBwAHQAcwAgAGUAeAB0AGUAcgBuAGUAcwBfAGMAbwBkAGUAAAAARAAAAwUAAAC4AQAAA/sAAAAkAEQAbwBjAHUAbQBlAG4AdABhAHQAaQBvAG4AXwBjAG8AZABlAAAAAEQAAAMFAAAARgEAAAMAAAADAAAHRAAAALL8AQAAAAT7AAAAMgBDAG8AbgB0AHIA9ABsAGUAIABkAGUAIAB2AGUAcgBzAGkAbwBuAHMAXwBjAG8AZABlAAAAAQ4AAAUUAAAAAAAAAAD7AAAAHABQAHIAbwBiAGwA6ABtAGUAcwBfAGMAbwBkAGUAAAABDgAABRQAAACvAQAAA/sAAAAuAE4AYQB2AGkAZwBhAHQAZQB1AHIAIABkAGUAIABjAG8AZABlAF8AYwBvAGQAZQAAAAEOAAAFFAAAAHYBAAAD+wAAABgASwBvAG4AcwBvAGwAZQBfAGMAbwBkAGUBAAAAHgAAB0QAAAAiAQAAAwAAB0QAAALdAAAABAAAAAQAAAABAAAAAvwAAAAEAAAAAAAAAAEAAAAsAEIAYQByAHIAZQAgAGQAdQAgAGIAbwB1AHQAbwBuACAAZwBhAHUAYwBoAGUDAAAAAP////8AAAAAAAAAAAAAAAEAAAABAAAAKgBCAGEAcgByAGUAIABkAHUAIABiAG8AdQB0AG8AbgAgAGQAcgBvAGkAdAMAAAAA/////wAAAAAAAAAAAAAAAgAAAAQAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIABxAHUAaQBjAGsATwBwAGUAbgBUAG8AbwBsAEIAYQByAQAAAw//////AAAAAAAAAAAAAAAsAEsARABlAHYAQwBvAGQAZQBiAHIAbwB3AHMAZQByAFQAbwBvAGwAQgBhAHIBAAAD9/////8AAAAAAAAAAAAAABgAZABlAGIAdQBnAFQAbwBvAGwAQgBhAHIBAAAFS/////8AAAAAAAAAAAAAAAMAAAABAAAALABCAGEAcgByAGUAIABkAHUAIABiAG8AdQB0AG8AbgAgAGQAdQAgAGIAYQBzAQAAAAD/////AAAAAAAAAAA=
+Width 1600=919
+Width 1920=919
+Window-Maximized 1080x1920=true
+Window-Maximized 900x1600=true
+debugToolBarVisibility=true
+
+[Open File]
+Last Open File Directory=file:///
+
+[Recent Files]
+File1[$e]=$HOME/projects/test/test.py
+File2[$e]=$HOME/PycharmProjects/untitled/autocompile.py
+File3[$e]=$HOME/PycharmProjects/untitled/autocompile/autocompile.py
+File4[$e]=$HOME/projects/rochepapierciseau/rochepapierciseau.py
+File5[$e]=$HOME/projects/test/mainwindow.py
+File6[$e]=$HOME/projects/test/mainwindow.ui
+Name1[$e]=test.py
+Name2[$e]=autocompile.py
+Name3[$e]=autocompile.py
+Name4[$e]=rochepapierciseau.py
+Name5[$e]=mainwindow.py
+Name6[$e]=mainwindow.ui
+
+[RecentProjects]
+File1[$e]=$HOME/PycharmProjects/untitled/autocompile/autocompile.kdev4
+File2[$e]=$HOME/projects/rochepapierciseau/rochepapierciseau.kdev4
+File3[$e]=$HOME/projects/test/test.kdev4
+Name1[$e]=autocompile.kdev4
+Name2[$e]=rochepapierciseau.kdev4
+Name3[$e]=test.kdev4
+
+[Sessions]
+Active Session ID={7bc3a697-3a15-4095-b924-c68cdead618b}
+
+[UiSettings]
+ShowTextEditorStatusBar=false
+
+[UiSettings/Docks/ToolbarEnabled]
+Projets_code=true
+
+[User Interface]
+Main Windows Count=1
+
+[User Interface][Main Window 0][Area code]
+desired views=org.kdevelop.ClassBrowserView:1,org.kdevelop.ContextBrowser:8,org.kdevelop.DocumentationView:2,org.kdevelop.DocumentsView:1,org.kdevelop.ExternalScriptView:2,org.kdevelop.FileManagerView:1,org.kdevelop.KonsoleView:8,org.kdevelop.OutputView:8,org.kdevelop.OutputView.0:8,org.kdevelop.ProblemReporterView:8,org.kdevelop.ProjectsView:1,org.kdevelop.SnippetView:2
+id=code
+view on bottom=org.kdevelop.KonsoleView
+view on left=
+view on right=
+view on top=
+working set=code_2442568
+
+[User Interface][Main Window 0][Area debug]
+desired views=org.kdevelop.DocumentationView:2,org.kdevelop.FileManagerView:1,org.kdevelop.KonsoleView:8,org.kdevelop.OutputView.0:8,org.kdevelop.debugger.BreakpointsView:8,org.kdevelop.debugger.ConsoleView:8,org.kdevelop.debugger.StackView:8,org.kdevelop.debugger.VariablesView:1
+id=debug
+view on bottom=
+view on left=
+view on right=
+view on top=
+working set=
+
+[User Interface][Main Window 0][Area review]
+desired views=org.kdevelop.DocumentationView:2,org.kdevelop.FileManagerView:1,org.kdevelop.OutputView.0:8,org.kdevelop.PatchReview:8,org.kdevelop.ProjectsView:1
+id=review
+view on bottom=
+view on left=
+view on right=
+view on top=
+working set=

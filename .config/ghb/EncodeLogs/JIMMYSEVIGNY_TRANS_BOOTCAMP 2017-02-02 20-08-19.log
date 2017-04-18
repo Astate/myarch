@@ -1,0 +1,297 @@
+Handbrake Version: 20170123054450-b656a1a-master (2017012301)
+[20:08:19] gtkgui: Modified Preset: /General/Fast 1080p30
+[20:08:19] 1 job(s) to process
+[20:08:19] json job:
+{
+    "Audio": {
+        "AudioList": [
+            {
+                "Bitrate": 160,
+                "CompressionLevel": -1.0,
+                "DRC": 0.0,
+                "DitherMethod": "auto",
+                "Encoder": "av_aac",
+                "Gain": 0.0,
+                "Mixdown": "stereo",
+                "NormalizeMixLevel": false,
+                "PresetEncoder": "av_aac",
+                "Quality": -3.0,
+                "Samplerate": "auto",
+                "Track": 0
+            }
+        ],
+        "CopyMask": [
+            "copy:aac"
+        ],
+        "FallbackEncoder": "av_aac"
+    },
+    "Destination": {
+        "ChapterList": [
+            {
+                "Name": "Chapter 1"
+            },
+            {
+                "Name": "Chapter 2"
+            },
+            {
+                "Name": "Chapter 3"
+            },
+            {
+                "Name": "Chapter 4"
+            },
+            {
+                "Name": "Chapter 5"
+            },
+            {
+                "Name": "Chapter 6"
+            },
+            {
+                "Name": "Chapter 7"
+            }
+        ],
+        "ChapterMarkers": true,
+        "File": "/home/mastarch/Vidéos/JIMMYSEVIGNY_TRANS_BOOTCAMP.mkv",
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": false
+        },
+        "Mux": "mkv"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 3,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 4,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 2,
+                    "rate": "27000000/900000"
+                }
+            },
+            {
+                "ID": 11,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 480,
+                    "width": 720
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "Name": "JIMMYSEVIGNY_TRANS_BOOTCAMP"
+    },
+    "PAR": {
+        "Den": 27,
+        "Num": 32
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/media/HD/Series/Jimmy Sévigny transFORMation/JIMMYSEVIGNY_TRANS_BOOTCAMP.ISO",
+        "Range": {
+            "End": 7,
+            "Start": 1,
+            "Type": "chapter"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": false,
+            "Forced": false
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorMatrixCode": 0,
+        "Encoder": "x264",
+        "Level": "4.0",
+        "OpenCL": false,
+        "Options": "",
+        "Preset": "fast",
+        "Profile": "main",
+        "QSV": {
+            "AsyncDepth": 4,
+            "Decode": false
+        },
+        "Quality": 22.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[20:08:19] CPU: AMD Athlon(tm) II X4 630 Processor
+[20:08:19]  - logical processor count: 4
+[20:08:19] hb_scan: path=/media/HD/Series/Jimmy Sévigny transFORMation/JIMMYSEVIGNY_TRANS_BOOTCAMP.ISO, title_index=1
+disc.c:352: error opening file BDMV/index.bdmv
+disc.c:352: error opening file BDMV/BACKUP/index.bdmv
+[20:08:19] bd: not a bd - trying as a stream/file instead
+libdvdnav: Using dvdnav version 5.0.1
+libdvdread: Encrypted DVD support unavailable.
+libdvdnav: DVD Title: JIMMYSEVIGNY_TRANS_BOOTCAMP
+libdvdnav: DVD Serial Number: 495fb74f        
+libdvdnav: DVD Title (Alternative): JIMMYSEVIGNY_TRANS_BOOTCAMP
+libdvdnav: DVD disk reports itself with Region mask 0x00000000. Regions: 1 2 3 4 5 6 7 8
+libdvdread: Encrypted DVD support unavailable.
+[20:08:19] scan: DVD has 5 title(s)
+[20:08:19] scan: scanning title 1
+[20:08:19] scan: opening IFO for VTS 1
+[20:08:19] scan: duration is 00:31:13 (1873233 ms)
+[20:08:19] pgc_id: 1, pgn: 1: pgc: 0x7f43f0011e70
+[20:08:19] scan: vts=1, ttn=1, cells=0->6, blocks=0->1030128, 1030129 blocks
+[20:08:19] scan: checking audio 1
+[20:08:19] scan: id=0x80bd, lang=Unknown (AC3), 3cc=und ext=0
+[20:08:19] scan: checking audio 2
+[20:08:19] scan: id=0x81bd, lang=Unknown (AC3), 3cc=und ext=0
+[20:08:19] scan: title 1 has 7 chapters
+[20:08:19] scan: chap 1 c=0->0, b=0->153144 (153145), 281500 ms
+[20:08:19] scan: chap 2 c=1->1, b=153145->338859 (185715), 327500 ms
+[20:08:19] scan: chap 3 c=2->2, b=338860->528048 (189189), 335000 ms
+[20:08:19] scan: chap 4 c=3->3, b=528049->715553 (187505), 335000 ms
+[20:08:19] scan: chap 5 c=4->4, b=715554->899399 (183846), 328500 ms
+[20:08:19] scan: chap 6 c=5->5, b=899400->1030122 (130723), 265333 ms
+[20:08:19] scan: chap 7 c=6->6, b=1030123->1030128 (6), 400 ms
+[20:08:19] scan: aspect = 16:9
+[20:08:19] scan: decoding previews for title 1
+libdvdnav: DVD disk reports itself with Region mask 0x00000000. Regions: 1 2 3 4 5 6 7 8
+[20:08:19] scan: title angle(s) 1
+[ac3 @ 0x7f43f0139040] frame sync error
+[20:08:19] scan: audio 0x81bd: ac3, rate=48000Hz, bitrate=448000 Unknown (AC3) (2.0 ch)
+[ac3 @ 0x7f43f0139040] frame sync error
+[20:08:19] scan: audio 0x80bd: ac3, rate=48000Hz, bitrate=448000 Unknown (AC3) (2.0 ch)
+[20:08:19] scan: 10 previews, 720x480, 29,970 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 32:27
+[20:08:19] libhb: scan thread found 1 valid title(s)
+[20:08:19] starting job
+[20:08:19] decomb filter thread started for segment 0
+[20:08:19] decomb filter thread started for segment 2
+[20:08:19] decomb filter thread started for segment 1
+[20:08:19] decomb check thread started for segment 0
+[20:08:19] decomb filter thread started for segment 3
+[20:08:19] decomb check thread started for segment 1
+[20:08:19] decomb check thread started for segment 2
+[20:08:19] decomb check thread started for segment 3
+[20:08:19] mask filter thread started for segment 0
+[20:08:19] mask filter thread started for segment 1
+[20:08:19] mask filter thread started for segment 2
+[20:08:19] mask filter thread started for segment 3
+[20:08:19] mask erode thread started for segment 0
+[20:08:19] mask erode thread started for segment 2
+[20:08:19] mask dilate thread started for segment 0
+[20:08:19] mask dilate thread started for segment 2
+[20:08:19] mask erode thread started for segment 3
+[20:08:19] mask dilate thread started for segment 1
+[20:08:19] mask dilate thread started for segment 3
+[20:08:19] yadif thread started for segment 0
+[20:08:19] mask erode thread started for segment 1
+[20:08:19] yadif thread started for segment 2
+[20:08:19] yadif thread started for segment 3
+[20:08:19] yadif thread started for segment 1
+[20:08:19] job configuration:
+[20:08:19]  * source
+[20:08:19]    + /media/HD/Series/Jimmy Sévigny transFORMation/JIMMYSEVIGNY_TRANS_BOOTCAMP.ISO
+[20:08:19]    + title 1, chapter(s) 1 to 7
+[20:08:19]  * destination
+[20:08:19]    + /home/mastarch/Vidéos/JIMMYSEVIGNY_TRANS_BOOTCAMP.mkv
+[20:08:19]    + container: Matroska (libavformat)
+[20:08:19]      + chapter markers
+[20:08:19]  * video track
+[20:08:19]    + decoder: mpeg2video
+[20:08:19]      + bitrate 8500 kbps
+[20:08:19]    + filters
+[20:08:19]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[20:08:19]      + Decomb (mode=39)
+[20:08:19]      + Framerate Shaper (mode=2:rate=27000000/900000)
+[20:08:19]        + frame rate: 29,970 fps -> peak rate limited to 30,000 fps
+[20:08:19]      + Crop and Scale (width=720:height=480:crop-top=0:crop-bottom=0:crop-left=0:crop-right=0)
+[20:08:19]        + source: 720 * 480, crop (0/0/0/0): 720 * 480, scale: 720 * 480
+[20:08:19]    + Output geometry
+[20:08:19]      + storage dimensions: 720 x 480
+[20:08:19]      + pixel aspect ratio: 32 : 27
+[20:08:19]      + display dimensions: 853 x 480
+[20:08:19]    + encoder: H.264 (libx264)
+[20:08:19]      + preset:  fast
+[20:08:19]      + profile: main
+[20:08:19]      + level:   4.0
+[20:08:19]      + quality: 22,00 (RF)
+[20:08:19]  * audio track 1
+[20:08:19]    + decoder: Unknown (AC3) (2.0 ch) (track 1, id 0x80bd)
+[20:08:19]      + bitrate: 448 kbps, samplerate: 48000 Hz
+[20:08:19]    + mixdown: Stereo
+[20:08:19]    + encoder: AAC (libavcodec)
+[20:08:19]      + bitrate: 160 kbps, samplerate: 48000 Hz
+libdvdnav: Using dvdnav version 5.0.1
+libdvdread: Encrypted DVD support unavailable.
+libdvdnav: DVD Title: JIMMYSEVIGNY_TRANS_BOOTCAMP
+libdvdnav: DVD Serial Number: 495fb74f        
+libdvdnav: DVD Title (Alternative): JIMMYSEVIGNY_TRANS_BOOTCAMP
+libdvdnav: DVD disk reports itself with Region mask 0x00000000. Regions: 1 2 3 4 5 6 7 8
+libdvdread: Encrypted DVD support unavailable.
+libdvdnav: DVD disk reports itself with Region mask 0x00000000. Regions: 1 2 3 4 5 6 7 8
+[20:08:19] sync: expecting 56140 video frames
+[20:08:19] encx264: min-keyint: 30, keyint: 300
+[20:08:19] encx264: encoding at constant RF 22,000000
+[20:08:19] encx264: unparsed options: level=4.0:ref=2:8x8dct=0:weightp=1:subme=6:vbv-bufsize=25000:vbv-maxrate=20000:rc-lookahead=30
+x264 [info]: using SAR=32/27
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast LZCNT
+x264 [info]: profile Main, level 4.0
+[20:08:20] sync: first pts audio 0x80bd is 0
+[20:08:20] sync: first pts video is 6006
+[20:08:20] sync: "Chapter 1" (1) at frame 1 time 6006
+[20:10:26] sync: "Chapter 2" (2) at frame 8446 time 25366341
+[20:13:00] sync: "Chapter 3" (3) at frame 18271 time 54870816
+[20:15:26] sync: "Chapter 4" (4) at frame 28321 time 85050966
+[20:17:42] sync: "Chapter 5" (5) at frame 38371 time 115231116
+[20:19:54] sync: "Chapter 6" (6) at frame 48226 time 144825681
+[20:21:26] reader: done. 1 scr changes
+[20:21:28] work: average encoding speed for job is 71,362717 fps
+[20:21:28] comb detect: heavy 2713 | light 3906 | uncombed 49563 | total 56182
+[20:21:28] decomb: deinterlaced 2713 | blended 3906 | unfiltered 49563 | total 56182
+[20:21:28] vfr: 56182 frames output, 0 dropped and 0 duped for CFR/PFR
+[20:21:28] vfr: lost time: 0 (0 frames)
+[20:21:28] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[20:21:28] ac3-decoder done: 58585 frames, 0 decoder errors
+[20:21:28] mpeg2video-decoder done: 56184 frames, 0 decoder errors
+[20:21:28] sync: got 56182 frames, 56140 expected
+[20:21:28] sync: framerate min 29,970 fps, max 29,970 fps, avg 29,970 fps
+x264 [info]: frame I:302   Avg QP:19,62  size: 29451
+x264 [info]: frame P:22333 Avg QP:23,19  size:  7045
+x264 [info]: frame B:33547 Avg QP:25,34  size:  1697
+x264 [info]: consecutive B-frames:  6,1% 30,2% 38,3% 25,4%
+x264 [info]: mb I  I16..4: 24,5%  0,0% 75,5%
+x264 [info]: mb P  I16..4:  2,6%  0,0%  5,1%  P16..4: 37,5% 17,7%  9,7%  0,0%  0,0%    skip:27,4%
+x264 [info]: mb B  I16..4:  1,6%  0,0%  0,3%  B16..8: 20,9%  7,2%  0,7%  direct: 7,1%  skip:62,3%  L0:36,7% L1:47,4% BI:15,9%
+x264 [info]: coded y,uvDC,uvAC intra: 49,9% 60,8% 22,2% inter: 10,5% 16,4% 0,9%
+x264 [info]: i16 v,h,dc,p: 28% 37% 19% 16%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 25% 20% 19%  5%  8%  8%  6%  6%  4%
+x264 [info]: i8c dc,h,v,p: 56% 20% 20%  4%
+x264 [info]: Weighted P-Frames: Y:0,4% UV:0,1%
+x264 [info]: ref P L0: 74,2% 25,8%
+x264 [info]: ref B L0: 85,1% 14,9%
+x264 [info]: ref B L1: 98,8%  1,2%
+x264 [info]: kb/s:952,25
+[20:21:28] mux: track 0, 56182 frames, 223131678 bytes, 952,16 kbps, fifo 4096
+[20:21:28] mux: track 1, 87878 frames, 37583829 bytes, 160,38 kbps, fifo 8192
+[20:21:28] libhb: work result = 0

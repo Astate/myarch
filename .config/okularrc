@@ -1,0 +1,33 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+Height 1080=663
+Height 900=663
+State=AAAA/wAAAAD9AAAAAAAABkAAAAMuAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1600=1272
+Width 1920=1272
+Window-Maximized 900x1600=true
+
+[Recent Files]
+File1[$e]=$HOME/Téléchargements/PDF_248231592_2017-02-23_5 (1).pdf
+File10[$e]=/media/Sync/Sync/Ebooks/The Python Book - The Ultimate Guide to Coding with Python (2015).pdf
+File2[$e]=/media/Sync/Sync/Ebooks/9781784391911-DJANGO_BY_EXAMPLE.pdf
+File3[$e]=/media/Sync/Sync/Ebooks/Android Programming for Beginners [eBook].pdf
+File4[$e]=/media/Sync/Sync/Ebooks/9781784399788-LEARNING_SCRAPY.pdf
+File5[$e]=$HOME/Documents/emilie tremblay.pdf
+File6[$e]=/media/Sync/Sync/Impots/Impot 2016/Zacharie-archive-16.pdf
+File7[$e]=/media/Sync/Sync/Impots/Impot 2016/Kim-archive-16.pdf
+File8[$e]=/media/Sync/Sync/Impots/Impot 2016/kim provincial.pdf
+File9[$e]=/media/Sync/Sync/Impots/Impot 2016/Kim-soumettre-cra-16.pdf
+Name1[$e]=PDF_248231592_2017-02-23_5 (1).pdf
+Name10[$e]=The Python Book - The Ultimate Guide to Coding with Python (2015).pdf
+Name2[$e]=9781784391911-DJANGO_BY_EXAMPLE.pdf
+Name3[$e]=Android Programming for Beginners [eBook].pdf
+Name4[$e]=9781784399788-LEARNING_SCRAPY.pdf
+Name5[$e]=emilie tremblay.pdf
+Name6[$e]=Zacharie-archive-16.pdf
+Name7[$e]=Kim-archive-16.pdf
+Name8[$e]=kim provincial.pdf
+Name9[$e]=Kim-soumettre-cra-16.pdf

@@ -1,0 +1,7 @@
+[FileDialogSize]
+Height 900=480
+Width 1600=640
+
+[KFileDialog Settings]
+Recent Files[$e]=.xsession,file:$HOME/embygen.ui,file:$HOME/Téléchargements/emby.png,file:$HOME/embypkggen.ui,file:$HOME/.xsession
+Recent URLs[$e]=file:$HOME/Musique/,file:$HOME/Téléchargements/

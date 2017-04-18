@@ -1,0 +1,6 @@
+# /home/mastarch/.config/systemd/user/barberie.service
+
+[Unit]
+Description=Barberie deal scraper service
+[Service]
+ExecStart=/home/mastarch/PycharmProjects/scarping/barberie/barberie.sh

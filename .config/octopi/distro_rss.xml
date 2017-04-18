@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KaOS – A Lean KDE Distribution</title>
+    <description>Tightly integrated rolling and transparent distribution for the modern desktop, build from scratch.</description>
+    <link>http://kaosx.us/</link>
+    <atom:link href="http://kaosx.us/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 12 Apr 2017 13:31:34 -0400</pubDate>
+    <lastBuildDate>Wed, 12 Apr 2017 13:31:34 -0400</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      
+    
+      
+      <item>
+        <title>KaOS 2017.04</title>
+        <description>&lt;p&gt;A nice way of celebrating the fourth anniversary of this distribution is releasing KaOS 2017.04 in two flavors. This time a &lt;strong&gt;Plasma Wayland&lt;/strong&gt; version is added &lt;strong&gt;alongside&lt;/strong&gt; the regular X-based ISO.&lt;/p&gt; &lt;!-- _includes/image.html --&gt; &lt;div class=&quot;image-wrapper&quot;&gt; &lt;a href=&quot;/img/2017/sddm_04&quot; target=&quot;_blank&quot;&gt; &lt;img src=&quot;/img/2017/sddm_04.png&quot; width=&quot;300px&quot; /&gt; &lt;/a&gt; &lt;p class=&quot;image-caption&quot;&gt;&lt;b&gt;SDDM session selection&lt;/b&gt;&lt;/p&gt; &lt;/div&gt; &lt;p&gt;The Plasma Wayland version is a smaller ISO, ships with a more limited amount of applications than the regular Plasma version. At this stage, a Wayland session can only be run on free graphics drivers and the live mode (plus install) will automatically switch to a regular X-based Plasma session should...</description>
+        <pubDate>Tue, 11 Apr 2017 13:23:31 -0400</pubDate>
+        <link>http://kaosx.us/news/2017/kaos04/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2017/kaos04/</guid>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>March '17 status</title>
+        <description>&lt;p&gt;It has been a while since one of these monthly status reports has been published. Part because of ISO releases coming at a time when these reports would usually be published, partly because of some time constraints. There has been more news though then what needs reporting for a new ISO, so in this report, all changes of the last two and a half months will be added.&lt;/p&gt; &lt;!-- _includes/image.html --&gt; &lt;div class=&quot;image-wrapper&quot;&gt; &lt;a href=&quot;/img/2017/package_viewer.png&quot; target=&quot;_blank&quot;&gt; &lt;img src=&quot;/img/2017/package_viewer.png&quot; width=&quot;300px&quot; /&gt; &lt;/a&gt; &lt;p class=&quot;image-caption&quot;&gt;&lt;b&gt;Additional options in the Package Viewer&lt;/b&gt;&lt;/p&gt; &lt;/div&gt; &lt;h2 id=&quot;online-package-viewer&quot;&gt;Online Package Viewer&lt;/h2&gt; &lt;p&gt;When wanting to get info about the...</description>
+        <pubDate>Tue, 21 Mar 2017 02:23:31 -0400</pubDate>
+        <link>http://kaosx.us/news/2017/march/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2017/march/</guid>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>KaOS 2017.02</title>
+        <description>&lt;p&gt;KaOS is proud to announce the availability of the February release of a new stable ISO.&lt;/p&gt; &lt;p&gt;The policy is, once a first pacman -Syu becomes a major update, it is time for a new ISO so new users are not faced with a difficult first update. With the exceptional large amounts of updates the last four to five weeks a new ISO is needed a bit sooner than usual.&lt;/p&gt; &lt;p&gt;As always with this rolling distribution, you will find the very latest packages for the Plasma Desktop, this includes Frameworks 5.31.0, &lt;a href=&quot;https://www.kde.org/announcements/plasma-5.9.2.php&quot; target=&quot;_blank&quot;&gt;Plasma 5.9.2&lt;/a&gt;, KDE Applications 16.12.2 &amp;amp; &lt;strong&gt;not yet...</description>
+        <pubDate>Mon, 20 Feb 2017 20:23:31 -0500</pubDate>
+        <link>http://kaosx.us/news/2017/kaos02/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2017/kaos02/</guid>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>KaOS 2017.01</title>
+        <description>&lt;p&gt;It is with great pleasure to present to you a first KaOS ISO for 2017.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;/img/2017/sddm_w.png&quot;&gt;&lt;img src=&quot;/img/2017/sddm_w.png&quot; alt=&quot;&quot; class=&quot;news-img-right&quot; /&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Starting the New Year with a fresh new look. All parts of the Midna artwork have been updated, most notably a new sddm theme that uses a layered QML model. This makes selecting between the default regular Plasma session or optional Wayland much clearer. New is also a move to a right vertical panel as default.&lt;/p&gt; &lt;p&gt;As always with this rolling distribution, you will find the very latest packages for the Plasma Desktop, this includes Frameworks 5.29.0, Plasma 5.8.5,...</description>
+        <pubDate>Thu, 05 Jan 2017 05:23:31 -0500</pubDate>
+        <link>http://kaosx.us/news/2017/kaos01/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2017/kaos01/</guid>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early December '16 status</title>
+        <description>&lt;p&gt;For most, it will have looked like a quiet 4-5 weeks since the November ISO release. Work on KaOS as always is steadily continuing though. As usual, most efforts went into keeping the repositories in the best shape possible. Artwork got it’s fair share of attention too.&lt;/p&gt; &lt;h2 id=&quot;repositories&quot;&gt;Repositories&lt;/h2&gt; &lt;p&gt;To get ready for &lt;strong&gt;KDE Applications 16.12&lt;/strong&gt;, the release candidate has entered the build repository. Most times the kde-next repository is used for this, but the exception is made because this week the final version will already be tagged plus almost all the remaining git builds of KDE Applications are now...</description>
+        <pubDate>Tue, 06 Dec 2016 01:23:31 -0500</pubDate>
+        <link>http://kaosx.us/news/2016/december/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2016/december/</guid>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>KaOS 2016.11</title>
+        <description>&lt;p&gt;KaOS is pleased to announce the 2016.11 release. As always with this rolling distribution, you will find the very latest packages for the Plasma Desktop, this includes Frameworks 5.27.0, &lt;a href=&quot;https://www.kde.org/announcements/plasma-5.8.3.php&quot; target=&quot;_blank&quot;&gt;Plasma 5.8.3&lt;/a&gt;, KDE Applications 16.08.2 &amp;amp; &lt;strong&gt;not yet released ports of KDE Applications&lt;/strong&gt;. All built on &lt;strong&gt;Qt 5.7.0.&lt;/strong&gt;&lt;/p&gt; &lt;!-- _includes/image.html --&gt; &lt;div class=&quot;image-wrapper&quot;&gt; &lt;a href=&quot;/img/2016/kshutdown.png&quot; target=&quot;_blank&quot;&gt; &lt;img src=&quot;/img/2016/kshutdown.png&quot; width=&quot;300px&quot; /&gt; &lt;/a&gt; &lt;p class=&quot;image-caption&quot;&gt;&lt;b&gt;Freshly kf5 ported kshutdown with updated window decoration&lt;/b&gt;&lt;/p&gt; &lt;/div&gt; &lt;h2 id=&quot;desktop&quot;&gt;Desktop&lt;/h2&gt; &lt;p&gt;For Plasma 5.8 the used Window Decoration in the Midna theme has been updated to accommodate changes in a Wayland session. Aurorae based decoration cannot be...</description>
+        <pubDate>Mon, 07 Nov 2016 05:23:31 -0500</pubDate>
+        <link>http://kaosx.us/news/2016/kaos11/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2016/kaos11/</guid>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early October '16 status</title>
+        <description>&lt;p&gt;After skipping last month status news due to the time coinciding with the September ISO release, it is back on track for one of these monthly reports.&lt;/p&gt; &lt;h2 id=&quot;wayland&quot;&gt;Wayland&lt;/h2&gt; &lt;p&gt;With the move to &lt;a href=&quot;https://www.kde.org/announcements/plasma-5.8.0.php&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Plasma 5.8.0&lt;/strong&gt;&lt;/a&gt; and Frameworks 5.27.0, using a Wayland session for Plasma is getting much closer to being able to be used as default. It won’t replace X11 session yet for the next ISO, but during the test cycle an ISO that defaults to a Wayland session will be uploaded. Adjustments for the Live session and the installer to exclude not supported non-free Nvidia have already...</description>
+        <pubDate>Mon, 10 Oct 2016 02:23:31 -0400</pubDate>
+        <link>http://kaosx.us/news/2016/october/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2016/october/</guid>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>KaOS 2016.09</title>
+        <description>&lt;p&gt;It is with great pleasure to present to you KaOS 2016.09. With this ISO KaOS has gone back to a fully integrated build of the different KDE parts. Instead of building Frameworks, Plasma and KDE Applications on their own separate release schedules all are now build the same day of any Frameworks release. To accomplish this Plasma 5 is now build from the &lt;strong&gt;latest commits&lt;/strong&gt;, no longer &lt;a href=&quot;https://forum.kaosx.us/d/1588-plasma-5-bi-weekly-master-builds&quot; target=&quot;_blank&quot;&gt;uses released tars&lt;/a&gt;.&lt;/p&gt; &lt;h2 id=&quot;desktop&quot;&gt;Desktop&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;/img/2016/kaptan.png&quot;&gt;&lt;img src=&quot;/img/2016/kaptan.png&quot; alt=&quot;&quot; class=&quot;news-img-right&quot; /&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;A new addition for KaOS is a &lt;strong&gt;First Run Wizard&lt;/strong&gt;. It will run on the newly installed system and enables...</description>
+        <pubDate>Tue, 13 Sep 2016 06:23:31 -0400</pubDate>
+        <link>http://kaosx.us/news/2016/kaos09/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2016/kaos09/</guid>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early August '16 status</title>
+        <description>&lt;p&gt;After the mass rebuild for GCC 5 last month, it has been a bit more quiet in the repositories. The usual KDE related updates include &lt;a href=&quot;https://www.kde.org/announcements/plasma-5.7.3.php&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Plasma 5.7.3&lt;/strong&gt;&lt;/a&gt; and Frameworks 5.25.0 has just entered the build repository (to be available for users in seven days). The kde-next repository was reopened to get ready for &lt;a href=&quot;https://www.kde.org/announcements/announce-applications-16.08-rc.php&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;KDE Applications 16.08&lt;/strong&gt;&lt;/a&gt;. The beta release was build two weeks ago, now the Release Candidate is available. This includes a further splitting of the kdepim group. Kdepimlibs is no more, what was left of it is now split into another three new packages.&lt;/p&gt;...</description>
+        <pubDate>Sun, 07 Aug 2016 02:23:31 -0400</pubDate>
+        <link>http://kaosx.us/news/2016/august/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2016/august/</guid>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>KaOS 2016.07</title>
+        <description>&lt;p&gt;KaOS is proud to present the 2016.07 ISO. The policy is, once a first pacman -Syu becomes a major update, it is time for a new ISO so new users are not faced with a difficult first update. With all the needed rebuilds for the move to &lt;strong&gt;GCC 5&lt;/strong&gt;, most systems will see 70-80% of their install replaced by new packages so a new ISO is more than due.&lt;/p&gt; &lt;h2 id=&quot;desktop&quot;&gt;Desktop&lt;/h2&gt; &lt;p&gt;The Plasma Desktop includes Frameworks 5.24.0, &lt;a href=&quot;https://www.kde.org/announcements/plasma-5.7.2.php&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Plasma 5.7.2&lt;/strong&gt;&lt;/a&gt;, KDE Applications 16.04.3 &amp;amp; &lt;strong&gt;not yet released ports of KDE Applications&lt;/strong&gt;. All built on &lt;strong&gt;Qt 5.7.0&lt;/strong&gt;. Changes in Plasma...</description>
+        <pubDate>Fri, 22 Jul 2016 06:23:31 -0400</pubDate>
+        <link>http://kaosx.us/news/2016/kaos07/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2016/kaos07/</guid>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early July '16 status</title>
+        <description>&lt;p&gt;This time a short status report. Not because nothing has happened, but because all current work is not yet visible for users.&lt;/p&gt; &lt;h2 id=&quot;move-to-gcc-5&quot;&gt;Move to GCC 5&lt;/h2&gt; &lt;p&gt;KaOS has waited a year to move to the new major version of GCC. Last year it was clear it would take a good amount of time before the majority of the applications used here would be ready for this new compiler. GCC 4.9 was still fully maintained so there was no need to rush to 5. Now a year later all seems ready for GCC 5 and a complete rebuild of almost...</description>
+        <pubDate>Sat, 09 Jul 2016 02:23:31 -0400</pubDate>
+        <link>http://kaosx.us/news/2016/july/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2016/july/</guid>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>KaOS 2016.06</title>
+        <description>&lt;p&gt;It is with great pleasure to present to you KaOS 2016.06. This time three major changes to announce.&lt;/p&gt; &lt;h2 id=&quot;kernel-with-build-in-microcode-support&quot;&gt;Kernel with build-in Microcode support&lt;/h2&gt; &lt;p&gt;With the move to the Linux kernel 4.6 it is now possible to fully automate the Early Microcode update. This new kernel now has all needed ucode build-in, thanks to commits like &lt;a href=&quot;https://lkml.org/lkml/2016/3/14/393&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;these&lt;/strong&gt;&lt;/a&gt;. For users, this means no need to install any ucode package, no need to adjust bootloaders or have an extra initrd just for Microcode loading. Many modern CPUs require loading microcode before everything else, as the update causes system instability otherwise.&lt;/p&gt;...</description>
+        <pubDate>Fri, 24 Jun 2016 03:23:31 -0400</pubDate>
+        <link>http://kaosx.us/news/2016/kaos06/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2016/kaos06/</guid>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early June '16 status</title>
+        <description>&lt;p&gt;In contrast to last months status report, this time a much more upbeat announcement with lots of changes that have happened to report.&lt;/p&gt; &lt;h2 id=&quot;new-website-and-forum&quot;&gt;New Website and Forum&lt;/h2&gt; &lt;p&gt;This part is of course the most visible news of last month. What you see now is a complete symplification of the design, no more CMS use, no more database for the site, just plain &lt;strong&gt;HTML &amp;amp; CSS with Jekyll&lt;/strong&gt; used as generator. The result is a faster site, way less resources needed for the server used. Design goal too was to get to a very natural navigation. No more submenus, all...</description>
+        <pubDate>Sun, 05 Jun 2016 19:23:31 -0400</pubDate>
+        <link>http://kaosx.us/news/2016/june/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2016/june/</guid>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early May '16 status</title>
+        <description>&lt;p&gt;This time a status post more about changes coming then the usual mention of what has changed and unfortunately a post with a bit of a bitter undertone.&lt;/p&gt; &lt;p&gt;Qt 4 ended development about 3 years ago, being replaced by Qt 5 then. Late last year Qt announced that Qt 4 is complete end of life, no more maintenance patches or security fixes. This has meant for KaOS that removing Qt 4 completely from the repositories was something to be done rather sooner than later. One vital package, hplip, was set as the cut-off. Once that one was ported, Qt 4...</description>
+        <pubDate>Fri, 06 May 2016 19:23:31 -0400</pubDate>
+        <link>http://kaosx.us/news/2016/may/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2016/may/</guid>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>KaOS 2016.04</title>
+        <description>&lt;p&gt;Not the customary bi-monthly release this time, but celebrating the three-year anniversary of KaOS by releasing 2016.04. Reason for this earlier release is the move to &lt;strong&gt;Qt 5.6&lt;/strong&gt; and with that an update and/or rebuild of the complete Desktop.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2016/04/Screenshot_20160319_190215.png&quot; rel=&quot;attachment wp-att-277121&quot;&gt;&lt;img src=&quot;/wp-content/uploads/2016/04/Screenshot_20160319_190215-300x205.png&quot; alt=&quot;Screenshot_20160319_190215&quot; width=&quot;300&quot; height=&quot;205&quot; class=&quot;alignleft size-medium wp-image-277121&quot; /&gt;&lt;/a&gt;&lt;br /&gt; QtWebengine has now replaced QtWebkit as the base for the default web-browser &lt;strong&gt;Qupzilla&lt;/strong&gt;. You will find a much better multimedia experience, were full-screen video is now supported, sites like Vimeo just work and there is no longer a need to use the unmaintained since 2012 flashplugin. Pepperflash is...</description>
+        <pubDate>Wed, 20 Apr 2016 18:42:47 -0400</pubDate>
+        <link>http://kaosx.us/news/2016/kaos04/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2016/kaos04/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early April &amp;#039;16 Status</title>
+        <description>&lt;p&gt;Biggest news for KaOS the last month has been the release of Qt 5.6. After a long delay it finally became available bringing many bug fixes to Plasma 5. Especially users of dual monitor setups will benefit greatly from the move to Qt 5.6.&lt;/p&gt; &lt;p&gt;QtWebengine was another part of Qt 5.6 that really matured. For KaOS this meant that the default web-browser Qupzilla moved away from its obsolete QtWebkit base to the new QtWebengine. You will&lt;a href=&quot;/wp-content/uploads/2016/04/Screenshot_20160319_190215.png&quot; rel=&quot;attachment wp-att-277121&quot;&gt;&lt;img src=&quot;/wp-content/uploads/2016/04/Screenshot_20160319_190215-300x205.png&quot; alt=&quot;Screenshot_20160319_190215&quot; width=&quot;300&quot; height=&quot;205&quot; class=&quot;alignright size-medium wp-image-277121&quot; /&gt;&lt;/a&gt; find a much better multimedia experience, were full-screen video is now supported, sites...</description>
+        <pubDate>Thu, 07 Apr 2016 19:26:42 -0400</pubDate>
+        <link>http://kaosx.us/news/2016/april/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2016/april/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>KaOS 2016.03</title>
+        <description>&lt;p&gt;KaOS is proud to announce the availability of the March release of a new stable ISO.&lt;/p&gt; &lt;p&gt;The Plasma Desktop includes Frameworks 5.20.0, &lt;a class=&quot;fancybox-iframe&quot; href=&quot;https://www.kde.org/announcements/plasma-5.5.5.php&quot; title=&quot;plasma 5.5.5&quot;&gt;Plasma 5.5.5&lt;/a&gt;, KDE Applications 15.12.2 and &lt;strong&gt;not yet released ports of KDE Applications&lt;/strong&gt;. A few enhancements to the Plasma 5 experience have been added, these are KaOS specific extras.&lt;br /&gt; &lt;a href=&quot;/wp-content/uploads/2016/02/Screenshot_20160206_125041.png&quot; rel=&quot;attachment wp-att-123047&quot;&gt;&lt;img src=&quot;/wp-content/uploads/2016/02/Screenshot_20160206_125041-300x185.png&quot; alt=&quot;Screenshot_20160206_125041&quot; width=&quot;300&quot; height=&quot;185&quot; class=&quot;alignleft size-medium wp-image-123047&quot; /&gt;&lt;/a&gt;You now have the option to calculate the md5sum from any file from the Dolphin service menu.&lt;br /&gt; Since the kf5 move there has not been a fully working GUI for user management,...</description>
+        <pubDate>Sun, 13 Mar 2016 22:28:18 -0400</pubDate>
+        <link>http://kaosx.us/news/2016/kaos03/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2016/kaos03/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early February &amp;#039;16 Status</title>
+        <description>&lt;p&gt;After a surprising record setting release for the KaOS 2016.01 ISO (no ISO for KaOS was downloaded as much in the first 5 days, nor did the website get the amount of hits as in that time period), it is time to go back to one of these regular monthly status reports.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2016/02/Screenshot_20160206_125041.png&quot; rel=&quot;attachment wp-att-123047&quot;&gt;&lt;img src=&quot;/wp-content/uploads/2016/02/Screenshot_20160206_125041-300x185.png&quot; alt=&quot;Screenshot_20160206_125041&quot; width=&quot;300&quot; height=&quot;185&quot; class=&quot;alignleft size-medium wp-image-123047&quot; /&gt;&lt;/a&gt;A few enhancements to the Plasma 5 experience have been added, these are KaOS specific extras.&lt;br /&gt; You now have the option to calculate the md5sum from any file from the Dolphin service menu. Since the kf5...</description>
+        <pubDate>Sat, 06 Feb 2016 18:23:31 -0500</pubDate>
+        <link>http://kaosx.us/news/2016/february/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2016/february/</guid>
+        
+        
+        <category>2016</category>
+        
+        <category>2016</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>KaOS 2016.01</title>
+        <description>&lt;p&gt;It is with great pleasure to present to you a first KaOS ISO for 2016.&lt;/p&gt; &lt;p&gt;As always with this rolling distribution you will find the very latest packages for the Plasma Desktop, this includes Frameworks 5.18.0, Plasma 5.5.3, KDE Applications 15.12.1 and &lt;strong&gt;not yet released ports of KDE Applications&lt;/strong&gt;. &lt;a class=&quot;fancybox-iframe&quot; href=&quot;https://www.kde.org/announcements/plasma-5.5.0.php&quot; title=&quot;plasma 5.5.0&quot;&gt;Plasma 5.5&lt;/a&gt; has brought new features in the Widget Explorer, expanded options in the Applications Launchers, new widgets including Color Picker &amp; Disk Quota, restored support for legacy system tray icons, default font has moved to Noto and Desktop Tweaks for different handling of widgets plus option...</description>
+        <pubDate>Fri, 15 Jan 2016 02:49:03 -0500</pubDate>
+        <link>http://kaosx.us/news/2016/kaos01/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2016/kaos01/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early December &amp;#039;15 Status</title>
+        <description>&lt;p&gt;As is now customary when new major releases for the different KDE parts are getting ready, the [kde-next] repository was opened three weeks ago to prepare for Plasma 5.5 and KDE Applications 15.12.&lt;br /&gt; A few release candidates have been compiled since. Latest still up in [kde-next] is KDE Applications 15.11.90. Plasma 5.5 is now in a stable version and will move to all KaOS users today.&lt;br /&gt; For the Applications, biggest news is that about twenty more are now fully kf5 based, so they no longer need a git build in KaOS. This includes all thumbnailers packages, kamera, libraries...</description>
+        <pubDate>Tue, 08 Dec 2015 17:21:03 -0500</pubDate>
+        <link>http://kaosx.us/news/2015/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2015/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>KaOS 2015.11</title>
+        <description>&lt;p&gt;KaOS is proud to present the &lt;b&gt;2015.11 ISO&lt;/b&gt;.&lt;br /&gt; The policy is, once a first pacman -Syu becomes a major update, it is time for a new ISO so new users are not faced with a difficult first update. With new builds effecting over half of the KaOS repositories (currently at about 2100), that new ISO is more than due.&lt;/p&gt; &lt;p&gt;As always with this rolling distribution you will find the very latest packages for the Plasma Desktop, this includes Frameworks 5.16.0, &lt;a class=&quot;fancybox-iframe&quot; href=&quot;https://www.kde.org/announcements/plasma-5.4.3.php&quot; title=&quot;plasma 5.4.3&quot;&gt;Plasma 5.4.3&lt;/a&gt;, KDE Applications 15.08.3 and &lt;strong&gt;not yet released ports of KDE Applications&lt;/strong&gt;.&lt;br /&gt; Most...</description>
+        <pubDate>Tue, 24 Nov 2015 17:54:01 -0500</pubDate>
+        <link>http://kaosx.us/news/2015/kaos11/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2015/kaos11/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early November &amp;#039;15 Status</title>
+        <description>&lt;p&gt;It might read as not so interesting to some, but since the most important for this distribution is packaging, always adding the latest, making sure every possible package is rebuild for any update and always checking in as many places as possible that updates are bringing improvements, this news article will begin with a long list of what was built the last month.&lt;/p&gt; &lt;p&gt;Builds affected over half of the KaOS repositories (currently at a little over 2100). The usual were the monthly KDE updates (Frameworks 5 to 5.15.0, &lt;a class=&quot;fancybox-iframe&quot; href=&quot;https://www.kde.org/announcements/plasma-5.4.2.php&quot;&gt;Plasma 5 to 5.4.2&lt;/a&gt; and KDE Applications to 15.08.2). Of...</description>
+        <pubDate>Thu, 05 Nov 2015 17:33:09 -0500</pubDate>
+        <link>http://kaosx.us/news/2015/november/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2015/november/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>KaOS 2015.10</title>
+        <description>&lt;p&gt;It is with great pleasure to present to you the &lt;b&gt;2015.10 ISO&lt;/b&gt;. As always with this rolling distribution you will find the very latest packages for the Plasma Desktop, this includes Frameworks 5.14.0, Plasma 5.4.1 and KDE Applications 15.08.1.&lt;br/&gt;&lt;br /&gt; Bigger news though are two changes. This ISO is the first time that the default XFS filesystem is &lt;b&gt;CRC and finobt enabled&lt;/b&gt;. CRCs enable enhanced error detection due to hardware issues, whilst the format changes also improves crash recovery algorithms and the ability of various tools to validate and repair metadata corruptions when they are found. The free inode btree...</description>
+        <pubDate>Fri, 02 Oct 2015 18:08:04 -0400</pubDate>
+        <link>http://kaosx.us/news/2015/kaos10/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2015/kaos10/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early September &amp;#039;15 Status</title>
+        <description>&lt;p&gt;After skipping last month status news due to the time coinciding with the August ISO release, it is back on track for one of these reports.&lt;/p&gt; &lt;p&gt;Since about twenty packages were removed from the repositories (example all of the gstreamer0.10 packages were finally obsolete), there was room to add some new packages. One that was regularly requested, &lt;a class=&quot;fancybox-iframe&quot; href=&quot;https://www.torproject.org/&quot;&gt;Tor&lt;/a&gt; is now added. The fcitx group had fcitx-anthy added, making the input method more complete for Japanese. Porting of KDE apps to plasma 5 keeps continuing too, some that left the repo in plasma 5 move are now back this...</description>
+        <pubDate>Sun, 06 Sep 2015 01:44:18 -0400</pubDate>
+        <link>http://kaosx.us/news/2015/september/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2015/september/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>KaOS ISO 2015.08</title>
+        <description>&lt;p&gt;It is with great pleasure to present to you the &lt;b&gt;2015.08 ISO&lt;/b&gt;. This ISO brings a long list of wonderful improvements to all of KDE. Biggest part undoubtedly is the first time to have the option to run Plasma 5 in a Wayland session. It still is in an early stage so kwin_x11 is of course the default still. For all the latest on Plasma 5 see &lt;b&gt;&lt;a class=&quot;fancybox-iframe&quot; href=&quot;https://www.kde.org/announcements/plasma-5.3.95.php&quot; title=&quot;plasma 5.4RC&quot;&gt;Plasma 5.4RC announcement&lt;/a&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;There are a few option to test a Wayland session, best working currently (possible in Live mode too) is to disable sddm &lt;code&gt;sudo systemctl stop sddm&lt;/code&gt;&lt;br...</description>
+        <pubDate>Thu, 13 Aug 2015 17:33:06 -0400</pubDate>
+        <link>http://kaosx.us/news/2015/kaos08/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2015/kaos08/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early July &amp;#039;15 Status</title>
+        <description>&lt;p&gt;A major Qt update is moving to all users today, so a good time to combine that with one of these monthly status reports.&lt;/p&gt; &lt;p&gt;An early Qt 5.5 release entered the kde-next repositories almost three weeks ago so all needed rebuilds and new KDE versions could be build on this version. Now that &lt;a class=&quot;fancybox-iframe&quot; href=&quot;http://blog.qt.io/blog/2015/07/01/qt-5-5-released/&quot; title=&quot;Qt 5.5.0&quot;&gt;Qt 5.5.0 final&lt;/a&gt; has been released all is ready to move to the stable repositories. Qtwebengine 5.5.0 is a major step forward of getting Qt based web-browser ready to use the chromium engine and will hopefully lead to a much more complete Qt...</description>
+        <pubDate>Fri, 03 Jul 2015 17:11:09 -0400</pubDate>
+        <link>http://kaosx.us/news/2015/july/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2015/july/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>KaOS ISO 2015.06</title>
+        <description>&lt;p&gt;KaOS is proud to present the &lt;b&gt;2015.06 ISO&lt;/b&gt;. The policy is, once a first pacman -Syu becomes a major update, it is time for a new ISO so new users are not faced with a difficult first update. With the magnitude of changes the last two months, that new ISO is more than due.&lt;br /&gt; Most notable major updates are the Boost/ICU stack, Gnutls/Nettles stack, a new Glibc 2.21 &amp; Binutils 2.25 based toolchain, a move to Libpng 1.6 series, Linux 4 (4.0.5) and Systemd 220.&lt;br /&gt; The latter now made the logical step to merge a bootloader with an...</description>
+        <pubDate>Sat, 13 Jun 2015 03:43:02 -0400</pubDate>
+        <link>http://kaosx.us/news/2015/kaos06/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2015/kaos06/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early June&amp;#039;15 Status</title>
+        <description>&lt;p&gt;This time quite early in the month a status post. Reason is this is just not news, but also a warning that a new way of building Calligra is finally moving to all users.&lt;br /&gt; With your next upate you will be asked to replace all of the split Calligra with one combined &quot;Calligra&quot; package. This is a first Plasma 5/Frameworks 5 version for stable users. Make sure to answer &quot;Yes&quot; to all replaces questions.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;http://kaosx.us/wp-content/uploads/2015/06/Screenshot_20150528_113811.png&quot;&gt;&lt;img src=&quot;http://kaosx.us/wp-content/uploads/2015/06/Screenshot_20150528_113811-300x169.png&quot; alt=&quot;karbon&quot; width=&quot;300&quot; height=&quot;169&quot; class=&quot;alignleft size-medium wp-image-3065&quot; /&gt;Karbon Frameworks 5 based working on the new Midna icons&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Also moving to all users today...</description>
+        <pubDate>Wed, 03 Jun 2015 03:01:35 -0400</pubDate>
+        <link>http://kaosx.us/news/2015/june/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2015/june/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Libpng 1.6 update</title>
+        <description>&lt;p&gt;KaOS has stayed with libpng 1.5 for as long as possible (and while that version was still fully maintained).&lt;br /&gt; With 1.5.22 it seems maintenance has come to an end so there is no choice but to move to 1.6.&lt;br /&gt; Libpng effects virtually all applications in the KaOS repositories so a large rebuild was needed (poppler was also effected, thus updated, which also triggered a rebuild of all depending on poppler).&lt;/p&gt; &lt;p&gt;With your next update you will receive this libpng change.&lt;br /&gt; Reason to make this a news time though is this update will break most of your applications...</description>
+        <pubDate>Wed, 20 May 2015 17:43:51 -0400</pubDate>
+        <link>http://kaosx.us/news/2015/libpng/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2015/libpng/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early May &amp;#039;15 Status</title>
+        <description>&lt;p&gt;With &lt;strong&gt;Frameworks 5.10.0&lt;/strong&gt; moving to all users today, time to announce the many changes again.&lt;br /&gt; Last week &lt;a class=&quot;fancybox-iframe&quot; href=&quot;https://www.kde.org/announcements/plasma-5.3.0.php&quot; title=&quot;Plasma 5.3.0&quot;&gt;Plasma 5 5.3.0&lt;/a&gt; became available for all KaOS users, today also adds Calligra 2.9.4 and LibreOffice 4.4.3.&lt;br /&gt; Most users will have noticed larger updates then the usual, those were triggered by major updates to &lt;strong&gt;boost, icu, nettle and gnutls&lt;/strong&gt;. All those required rebuilds for all that depend on them, so those four alone created updates to a good two hundred.&lt;br /&gt; Then there is an ongoing update/rebuild for any older package in the [Main] repository, as per...</description>
+        <pubDate>Fri, 08 May 2015 21:10:03 -0400</pubDate>
+        <link>http://kaosx.us/news/2015/may/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2015/may/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>KaOS ISO 2015.04</title>
+        <description>&lt;p&gt;A nice way of celebrating the second anniversary if this distribution is releasing &lt;strong&gt;KaOS 2015.04&lt;/strong&gt;.&lt;br /&gt; The previous two releases were the result of some drastic and fundamental changes to this distribution (new DE, new installer, move to UEFI). With this release it is finally back to a much more simple focus as always intended for this distribution.&lt;br /&gt; &lt;a href=&quot;http://kaosx.us/wp-content/uploads/2015/04/snapshot1-1.png&quot;&gt;&lt;img src=&quot;http://kaosx.us/wp-content/uploads/2015/04/snapshot1-1-300x188.png&quot; alt=&quot;Midna&quot; width=&quot;300&quot; height=&quot;188&quot; class=&quot;alignleft size-medium wp-image-2889&quot; /&gt;&lt;/a&gt;Most attention has gone in updating and rebuilding well over 1200 packages the last two months. This includes updates to base packages like pacman, kmod, openssl, openssh, sudo, util-linux, cmake, ruby, nano,...</description>
+        <pubDate>Sat, 18 Apr 2015 17:21:48 -0400</pubDate>
+        <link>http://kaosx.us/news/2015/kaos04/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2015/kaos04/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early April &amp;#039;15 Status</title>
+        <description>&lt;p&gt;With so many news post leading up to the full Plasma 5 move and new ISO late last February, March was skipped for these monthly status reports.&lt;br /&gt; Now that all is settled after all those massive changes, it is nice to bring you a monthly status report again focusing on what this distribution is about, not just reporting all the changes for a new Desktop Environment and installer.&lt;/p&gt; &lt;p&gt;The last six weeks so a tremendous amount of updates to all of the KaOS repositories. Updates and changes that had to wait until the full plasma 5 was done were...</description>
+        <pubDate>Wed, 01 Apr 2015 16:41:21 -0400</pubDate>
+        <link>http://kaosx.us/news/2015/april/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2015/april/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>KaOS ISO 2015.02</title>
+        <description>&lt;p&gt;KaOS is very proud to announce the availability of the February release of a new stable ISO. This release brings the end of KDE 4 as the default Desktop Environment for KaOS. Almost ten months ago work started to fully migrate to a Frameworks 5, Plasma 5 based distribution and with the release of &lt;strong&gt;Plasma 5.2.1&lt;/strong&gt; this migration is now deemed ready to bring a better user experience then KDE 4. From the unset of this migration there was never a plan to mix the two environments. What you will see on this ISO is a pure Plasma 5 based...</description>
+        <pubDate>Tue, 24 Feb 2015 18:18:58 -0500</pubDate>
+        <link>http://kaosx.us/news/2015/kaos02/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2015/kaos02/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Kf5 move, KDE 4 removed</title>
+        <description>&lt;p&gt;Anyone slightly familiar with KaOS knows this announcement was coming.&lt;br /&gt; Tomorrow, February 24th, this full move will take place. This will mean the end of the KDE 4 desktop for KaOS. All parts of the KDE 4 desktop will be fully replaced by Plasma 5.&lt;/p&gt; &lt;p&gt;What does this mean for KaOS users?&lt;br /&gt; With your next update, you will see that many package will be replaced, this can be anywhere between 80 to well over 200 packages being replaced.&lt;br /&gt; If you run this update with pacman, it will ask you for each replace to confirm, all defaults are...</description>
+        <pubDate>Mon, 23 Feb 2015 17:20:58 -0500</pubDate>
+        <link>http://kaosx.us/news/2015/kf5movefeb/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2015/kf5movefeb/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early February &amp;rsquo;15 Status</title>
+        <description>&lt;p&gt;This time a short News post.&lt;br /&gt; So much work is happening in the background not visible to the regular that it doesn't make sense to expand too much on that.&lt;/p&gt; &lt;p&gt;KDE 4 was updated to KDE Applications 14.12.2, which included lts version of 4.14 and 4.11 based kdelibs, pim packages &amp; kde-workspace. This was the final build for KDE 4 in KaOS.&lt;/p&gt; &lt;p&gt;The full move to Frameworks 5, Plasma 5 and KDE Applications kf5 based is in full swing. There no longer is a separate repository in use for it, all has moved to the [build] repo so the...</description>
+        <pubDate>Tue, 10 Feb 2015 17:32:05 -0500</pubDate>
+        <link>http://kaosx.us/news/2015/february/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2015/february/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>kf5 ISO 2015.01.25 a Release Candidate?</title>
+        <description>&lt;p&gt;Since May last year there have been 2-3 monthly snapshot ISOs based on the ongoing work to &lt;strong&gt;port all of KaOS&lt;/strong&gt; to the all new Frameworks 5, Plasma 5 and KDE Applications based on those two. None of these ISOs were ever announced to the public, always kept for internal testing by only just discussing those in the forums&lt;br /&gt; &lt;a href=&quot;http://kaosx.us/wp-content/uploads/2015/01/snapshot2.png&quot;&gt;&lt;img class=&quot;alignleft size-medium wp-image-2388&quot; src=&quot;http://kaosx.us/wp-content/uploads/2015/01/snapshot2-300x188.png&quot; alt=&quot;snapshot2&quot; width=&quot;300&quot; height=&quot;188&quot; /&gt;&lt;/a&gt;&lt;br /&gt; KaOS-kf5-2015.01.15 is a first ISO were it looks like kf5 is getting to a point were it might be ready to &lt;strong&gt;replace KDE 4&lt;/strong&gt; within a month or so....</description>
+        <pubDate>Mon, 26 Jan 2015 03:29:26 -0500</pubDate>
+        <link>http://kaosx.us/news/2015/kf5jan/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2015/kf5jan/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early January &amp;rsquo;15 Status</title>
+        <description>&lt;p&gt;Quite a lot of news to relay this time.&lt;/p&gt; &lt;p&gt;But first it is needed to place a &lt;strong&gt;warning&lt;/strong&gt;. With your next update a &lt;strong&gt;conflict will arise from libspnav&lt;/strong&gt;. Any user that has either Calligra or freecad installed will have this conflict. Old version of libspnav left an orphaned symlink. When you get the conflict error with your next pacman -Syu, just remove the old file:&lt;br /&gt; &lt;code&gt;sudo rm /usr/lib/libspnav.so.0&lt;/code&gt;&lt;br /&gt; then run pacman -Syu again&lt;/p&gt; &lt;p&gt;With that out of the way, it is time to explain the &lt;strong&gt;transition phase KaOS&lt;/strong&gt; is in now. Since May last year work has been...</description>
+        <pubDate>Tue, 13 Jan 2015 20:10:52 -0500</pubDate>
+        <link>http://kaosx.us/news/2015/january.html</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2015/january.html</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>KaOS ISO 2014.12</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://kaosx.us/wp-content/uploads/2014/12/snapshot1a.png&quot;&gt;&lt;img class=&quot;alignleft size-medium wp-image-2247&quot; src=&quot;http://kaosx.us/wp-content/uploads/2014/12/snapshot1a-300x187.png&quot; alt=&quot;calamares&quot; width=&quot;300&quot; height=&quot;187&quot; /&gt;&lt;/a&gt;KaOS is very proud to announce the availability of the December release of a new stable ISO. This ISO marks two major milestones for this distribution. Since it's inception almost two years ago, a need to be ready for UEFI installs has always been a priority. That was tied though to getting a modern Qt based installer that could handle such UEFI installs. With this ISO, both are implemented.&lt;/p&gt; &lt;p&gt;The new, &lt;strong&gt;Qt5/python3 based installer&lt;/strong&gt; is a joint effort of several distributions. In May of this year, developers of Netrunnner, KaOS and...</description>
+        <pubDate>Wed, 24 Dec 2014 02:14:53 -0500</pubDate>
+        <link>http://kaosx.us/news/2014/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2014/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early December &amp;rsquo;14 Status</title>
+        <description>&lt;p&gt;With a late October post about how to proceed with kf5 and the announcement of a new stable ISO November 6, last month was skipped for one of these &quot;Early Month&quot; posts. Resuming it again this month.&lt;/p&gt; &lt;p&gt;It is a bit of a chaotic situation for packagers regarding KDE, many things are very unclear, so for KaOS, just trying to do the best with the limited info that comes from KDE devs.&lt;br /&gt; &lt;strong&gt;KDE for all stable users was updated to 4.14.3&lt;/strong&gt;, with kde-workspace staying at 4.11 (currently 4.11.14), kactivities no more releases for KDE 4. KDE-workspace is supposed to...</description>
+        <pubDate>Sat, 06 Dec 2014 17:25:48 -0500</pubDate>
+        <link>http://kaosx.us/news/2014/december/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2014/december/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>KaOS ISO 2014.11</title>
+        <description>&lt;p&gt;KaOS is proud to announce the availability of the November release of a new stable ISO. Since August updates were done to a good 1200 packages and to stay with the policy that a first pacman -Syu should be an uncomplicated one for new users means a new ISO is needed.&lt;/p&gt; &lt;p&gt;Testing for this ISO took longer then usual, due to the fact that getting ready for an UEFI capable ISO is a must. &amp;nbsp;For that, the interim installer is not a good option, so a lot of work was done to try and get the new Qt5 based installer,...</description>
+        <pubDate>Thu, 06 Nov 2014 16:58:34 -0500</pubDate>
+        <link>http://kaosx.us/news/2014/kaos11/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2014/kaos11/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Plasma 5/Frameworks 5 plans &amp;amp; test ISO</title>
+        <description>&lt;p&gt;There has been a lot of internal talk since May this year, and lately discussions &lt;a href=&quot;http://kaosx.us/phpBB3/viewtopic.php?f=9&amp;t=682&quot; title=&quot;on the forum&quot;&gt;on the forum&lt;/a&gt; and on &lt;a href=&quot;https://plus.google.com/115793168478540780255/posts/6EmVKbqKmEg&quot; title=&quot;the KaOS G+ channel&quot;&gt;the KaOS G+ channel&lt;/a&gt; about when and how to move to Plasma 5/Frameworks 5. Following those discussions, you know KaOS switching to Plasma 5 is getting closer.&lt;br /&gt; From all that was said in those discussions, it was getting clear a good target date for this full switch to a pure Plasma 5/Frameworks based KaOS will be somewhere middle January to early February, with the release of Plasma 5.2 (planned to...</description>
+        <pubDate>Thu, 30 Oct 2014 21:19:16 -0400</pubDate>
+        <link>http://kaosx.us/news/2014/kf5plans/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2014/kf5plans/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early October &amp;#039;14 Status</title>
+        <description>&lt;p&gt;It probably looked like a quiet four weeks for most. And it is true no major visible changes have occurred, but things were far from quiet.&lt;/p&gt; &lt;p&gt;As with the goal of this distribution, packaging took most of the time. Major groups were updated, resulting in well over 600 packages build. Expect new boost and icu to land in the stable repositories within a few days, all perl packages moved there about a week ago. Systemd moved to 216, new make, cmake, ruby were among the many core packages updated. New nvidia, gstreamer 1.0, mesa, xorg-server and mono were among those...</description>
+        <pubDate>Wed, 08 Oct 2014 20:36:00 -0400</pubDate>
+        <link>http://kaosx.us/news/2014/october/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2014/october/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early September &amp;#039;14 Status</title>
+        <description>&lt;p&gt;Two things stand out for the last 4-5 weeks in the development of KaOS.&lt;/p&gt; &lt;p&gt;A move to UEFI capable ISOs has been in the works for about 5 months, but there &lt;a href=&quot;http://kaosx.us/wp-content/uploads/2014/09/snapshot126.png&quot;&gt;&lt;img src=&quot;http://kaosx.us/wp-content/uploads/2014/09/snapshot126-300x221.png&quot; alt=&quot;snapshot126&quot; width=&quot;300&quot; height=&quot;221&quot; class=&quot;alignright size-medium wp-image-2051&quot; /&gt;&lt;/a&gt;finally is a working version available. The KaOS-kf5 2014.09.06 test-iso is a first that fully boots in BIOS, EFI and UEFI capable systems, using the simple but quite powerful and very transparent gummiboot as bootloader.&lt;br /&gt; No UEFI installable ISO yet though, for that lots of work is ongoing to get &lt;a href=&quot;http://kaosx.us/wp-content/uploads/2014/09/snapshot124.png&quot;&gt;&lt;img src=&quot;http://kaosx.us/wp-content/uploads/2014/09/snapshot124-300x193.png&quot; alt=&quot;snapshot124&quot; width=&quot;300&quot; height=&quot;193&quot; class=&quot;alignleft size-medium wp-image-2051&quot;...</description>
+        <pubDate>Wed, 10 Sep 2014 02:44:16 -0400</pubDate>
+        <link>http://kaosx.us/news/2014/september/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2014/september/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>KaOS ISO 2014.08</title>
+        <description>&lt;p&gt;With KDE releasing the new major version &lt;a class=&quot;fancybox-iframe&quot; title=&quot;KDE 4.13.2&quot; href=&quot;http://kde.org/announcements/4.14/&quot;&gt;KDE 4.14.0&lt;/a&gt;, offering primarily improvements and bugfixes, KaOS is happy to be able to present you a &lt;strong&gt;new ISO with KDE 4.14.0&lt;/strong&gt; the same day it is released. KDE Applications 4.14 is not about lots of &quot;new and improved stuff&quot;. As with KaOS, many KDE developers are focused on the Next Experience (Plasma 5) or porting to KDE Frameworks (based on Qt5). Mostly, the 4.14 release is needed by aspects of the workflow. This release offers more software stability, with little emphasis on new and less-proven stuff.&lt;/p&gt; &lt;p&gt;For KaOS,...</description>
+        <pubDate>Wed, 20 Aug 2014 16:50:24 -0400</pubDate>
+        <link>http://kaosx.us/news/2014/kaos08/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2014/kaos08/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early August &amp;#039;14 Status</title>
+        <description>&lt;p&gt;Last 4-5 weeks no visual major changes, weeks were more marked with update, rebuild and prepare.&lt;/p&gt; &lt;p&gt;Preparation is in full swing to be ready for &lt;strong&gt;KDE 4.14&lt;/strong&gt; later this month, latest RC is build and currently tested on an ISO. KDE 4.13.3 is the latest currently available to all KaOS users.&lt;/p&gt; &lt;p&gt;Lots of work is ongoing (not visible yet for most users) in preparing to switch to a new installer. &amp;nbsp;One is fully working, is in the final testing &lt;a href=&quot;http://kaosx.us/wp-content/uploads/2014/08/snapshot4_1.png&quot;&gt;&lt;img class=&quot;alignright size-medium wp-image-1932&quot; src=&quot;http://kaosx.us/wp-content/uploads/2014/08/snapshot4_1-300x187.png&quot; alt=&quot;snapshot4_1&quot; width=&quot;300&quot; height=&quot;187&quot; /&gt;&lt;/a&gt;phase and will be used on an interim base until what hopefully...</description>
+        <pubDate>Mon, 11 Aug 2014 18:49:02 -0400</pubDate>
+        <link>http://kaosx.us/news/2014/august/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2014/august/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early July &amp;#039;14 Status</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://kaosx.us/wp-content/uploads/2014/07/Screenshot_2014-06-23-11-31-04.png&quot;&gt;&lt;img src=&quot;http://kaosx.us/wp-content/uploads/2014/07/Screenshot_2014-06-23-11-31-04-187x300.png&quot; alt=&quot;Responsive forum&quot; width=&quot;187&quot; height=&quot;300&quot; class=&quot;alignright size-medium wp-image-1824&quot; /&gt;&lt;/a&gt;Another month passed where a lot of interesting things happened in KaOS.&lt;br /&gt; First the most visual change. The website has undergone a complete overhaul, this to get easier navigation, have all the navigation menus being fully compatible with Qt5 browsers and have more info about this distribution right on the home page. Change was also needed to make it translatable (thanks to &lt;strong&gt;dago, cellix and shalokshalom&lt;/strong&gt;, the site is available in four languages) and have it fully responsive. This includes the forum too.&lt;br /&gt; The online &lt;strong&gt;Package Viewer&lt;/strong&gt; has...</description>
+        <pubDate>Sun, 06 Jul 2014 17:40:31 -0400</pubDate>
+        <link>http://kaosx.us/news/2014/july/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2014/july/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>KaOS ISO 2014.06</title>
+        <description>&lt;p&gt;KaOS is proud to announce the availability of the June release of a new stable ISO. The last two months updates were done to a good 1100 packages and to stay with the policy that a first pacman -Syu should be an uncomplicated one for new users means a new ISO is needed.&lt;/p&gt; &lt;p&gt;At the base of the system some of the updates this ISO has, &lt;strong&gt;linux 3.14.6 with the futex bug fix included&lt;/strong&gt;, gcc 4.8.3, llvm 3.4.1, &lt;strong&gt;Qt5 5.3.0&lt;/strong&gt;, openssl 1.0.1.h, mesa 10.2.1, bash 4.3.018, poppler 0.26.1. Systemd 213 was part of the updates tested but did not make...</description>
+        <pubDate>Thu, 12 Jun 2014 02:21:50 -0400</pubDate>
+        <link>http://kaosx.us/news/2014/kaos06/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2014/kaos06/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early June &amp;#039;14 Status</title>
+        <description>&lt;p&gt;A very busy month for KaOS is behind us. To start with the usual, though it was a bit more then normal, a good 700 packages were updated, this combined with the 500 or so more the month before, makes it clear, a new ISO is needed soon to stay with the policy to have the first pacman -Syu for new users be an uncomplicated one.&lt;br /&gt; Just a glimpse of all that is new, KDE moved to 4.13.1 (4.13.2 build will start shortly, expect that version to be on the upcoming ISO), linux 3.14.5, gcc 4.8.3, Qt 5.3.0, poppler...</description>
+        <pubDate>Fri, 06 Jun 2014 02:39:08 -0400</pubDate>
+        <link>http://kaosx.us/news/2014/june/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2014/june/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early May &amp;#039;14 Status</title>
+        <description>&lt;p&gt;These &quot;Early Month Status&quot; reports are full cycle now, first one was published a year ago, &lt;a class=&quot;fancybox-iframe&quot; title=&quot;May 2013 status&quot; href=&quot;http://kaosx.us/early-may-status/&quot;&gt;May 2013 Status&lt;/a&gt;, so a year indication will be added from now on.&lt;/p&gt; &lt;p&gt;One of the goals from the start has been to keep all packages in all repositories as &lt;strong&gt;fully integrated and well maintained as possible&lt;/strong&gt;, to that end, any package that does not receive an upstream update will be rebuild when it reaches one year of age. Since the repositories are one year old now, such rebuilds have started, many in core were rebuild last month, one...</description>
+        <pubDate>Mon, 05 May 2014 16:48:02 -0400</pubDate>
+        <link>http://kaosx.us/news/2014/may/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2014/may/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>One year Anniversary ISO KaOS 2014.04</title>
+        <description>&lt;p&gt;Many might not know, but it is one year to this date the website went live, the repositories came online, the forum was activated for what has since become the distribution KaOS. A nice way of celebrating this anniversary is with a new ISO featuring the major new release, &lt;strong&gt;KDE 4.13.0&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;After a good six weeks of testing, five complete builds, many minor rebuilds to accommodate all the needed changes for a switch in the symantic desktop search KDE uses, it is a pleasure to present you with this exciting new release. Screenshot courtesy of Aur&amp;eacute;lien G&amp;acirc;teau:&lt;img src=&quot;http://kaosx.us/out.gif&quot; alt=&quot;KDE 4.13&quot;...</description>
+        <pubDate>Thu, 17 Apr 2014 16:32:27 -0400</pubDate>
+        <link>http://kaosx.us/news/2014/kaos04/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2014/kaos04/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early April Status</title>
+        <description>&lt;p&gt;On the surface it has been a fairly quiet month since the ISO release March 4. That doesn't mean nothing was happening, more the opposite, but not all is visible to all users yet.&lt;/p&gt; &lt;p&gt;One of the major changes that is worked on is the preparations for KDE 4.13. Some of you might wonder why KDE 4.12.4 has not entered the repositories. Due to very few changes from 4.12.3 and to put as much work as possible to get 4.13 in great shape, 4.12.4 will be skipped for KaOS, see the discussion &lt;a title=&quot;KDE 4.12.4 discussion&quot; href=&quot;https://plus.google.com/115793168478540780255/posts/JpJgthGzLhU&quot;&gt;here&lt;/a&gt;.&lt;br /&gt; KDE 4.13...</description>
+        <pubDate>Mon, 07 Apr 2014 17:34:57 -0400</pubDate>
+        <link>http://kaosx.us/news/2014/april/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2014/april/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early March Status/KaOS 2014.03</title>
+        <description>&lt;p&gt;This time a combined Status report and ISO release announcement, quite a lot has happened, so a bit longer article then usual.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;http://kaosx.us/wp-content/uploads/2014/03/snapshot28.png&quot;&gt;&lt;img class=&quot;alignleft size-medium wp-image-1221&quot; src=&quot;http://kaosx.us/wp-content/uploads/2014/03/snapshot28-300x197.png&quot; alt=&quot;midna-kdm&quot; width=&quot;300&quot; height=&quot;197&quot; /&gt;&lt;/a&gt;KaOS is very proud to announce the availability of the March release of a new stable ISO. The last month a lot of work has gone into redoing the whole artwork and theming of KaOS to give this distribution more of it's own identity. &lt;strong&gt;Midna&lt;/strong&gt; is the name of the set, and includes midna-ksplash, midna-kdm and midna plasma. The theme is based on the wallpaper especially designed for KaOS...</description>
+        <pubDate>Tue, 04 Mar 2014 20:07:27 -0500</pubDate>
+        <link>http://kaosx.us/news/2014/march/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2014/march/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Move to Samba 4</title>
+        <description>&lt;p&gt;&lt;img class=&quot;alignleft size-thumbnail wp-image-1120&quot; src=&quot;http://kaosx.us/wp-content/uploads/2014/01/available_updates-150x150.png&quot; alt=&quot;available_updates&quot; width=&quot;150&quot; height=&quot;150&quot; /&gt; KaOS stayed with Samba 3 as long as possible, maintenance from upstream was still active until last December. But it was announced, the 3 series is no longer maintained, so time to move to 4.&lt;/p&gt;
+&lt;p&gt;4.1.5 introduces quite a few new dependencies and is a major change.&lt;br /&gt;
+For instructions about this migration see:&lt;br /&gt;
+&lt;a title=&quot;Samba 3 to 4 Wiki&quot; href=&quot;http://wiki.samba.org/index.php/Samba4/samba3upgrade/HOWTO&quot;&gt;A HowTo of migrating from Samba 3 to 4&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 27 Feb 2014 16:15:56 -0500</pubDate>
+        <link>http://kaosx.us/news/2014/samba/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2014/samba/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early February Status</title>
+        <description>&lt;p&gt;With the move of &lt;a class=&quot;fancybox-iframe&quot; title=&quot;kde 4.12.2&quot; href=&quot;http://www.kde.org/announcements/announce-4.12.2.php&quot;&gt; KDE 4.12.2&lt;/a&gt; to the stable repo, it is a good time to give a status update of KaOS. Moved today is not just KDE 4.12.2, but also a major update, &lt;strong&gt;libgcrypt&lt;/strong&gt;. Much was rebuild for this, plus other lower level libs will be included in your next pacman -Syu. Firefox 27.0, Thunderbird 24.3.0, Chrome 34 (first release with aura) are among the updates too. In all, a good 540 packages are moved to stable today. You will be asked about a few replaces, answer all with &quot;Yes&quot;.&lt;/p&gt; &lt;p&gt;January did see well...</description>
+        <pubDate>Tue, 04 Feb 2014 18:22:34 -0500</pubDate>
+        <link>http://kaosx.us/news/2014/february/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2014/february/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>KaOS ISO 2014.01</title>
+        <description>&lt;p&gt;Two weeks into the New Year, KaOS is pleased to present you with a first ISO for 2014. The policy is, once a first pacman -Syu becomes a major update, it is time for a new ISO so new users are not faced with a difficult first update. Since the last ISO, updates to a good 700 packages happened, including some major groups, so a new ISO is now needed.&lt;a href=&quot;http://kaosx.us/wp-content/uploads/2014/01/snapshot5.png&quot;&gt;&lt;img src=&quot;http://kaosx.us/wp-content/uploads/2014/01/snapshot5-300x187.png&quot; alt=&quot;snapshot5&quot; width=&quot;300&quot; height=&quot;187&quot; class=&quot;alignright size-medium wp-image-1131&quot; /&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Among the updates, you will find &lt;a class=&quot;fancybox-iframe&quot; href=&quot;http://kde.org/announcements/announce-4.12.1.php&quot; title=&quot;kde 4.12.1&quot;&gt; KDE 4.12.1&lt;/a&gt;, new mkinitcpio and kmod. LLVM, ilmbase and openexr,...</description>
+        <pubDate>Sat, 18 Jan 2014 16:56:45 -0500</pubDate>
+        <link>http://kaosx.us/news/2014/kaos01/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2014/kaos01/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Xorg 1.15 and KDE 4.12.1 update</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://kaosx.us/wp-content/uploads/2014/01/available_updates-150x150.png&quot; alt=&quot;available_updates&quot; width=&quot;150&quot; height=&quot;150&quot; class=&quot;alignleft size-thumbnail wp-image-1120&quot; /&gt; After about three weeks of testing, the whole xorg 1.15 update (including new mesa and packages new to the repositories) is ready to move to all users.&lt;/p&gt; &lt;p&gt;&lt;a class=&quot;fancybox-iframe&quot; href=&quot;http://kde.org/announcements/announce-4.12.1.php&quot; title=&quot;kde 4.12.1&quot;&gt; KDE 4.12.1&lt;/a&gt; was build last week, brings more than 45 recorded bugfixes including improvements to the personal information management suite Kontact, the UML tool Umbrello, the document viewer Okular, the web browser Konqueror, the file manager Dolphin, and others. It is included in your next update too.&lt;/p&gt; &lt;p&gt;Besides the above, a few more base packages had major updates, requiring...</description>
+        <pubDate>Wed, 15 Jan 2014 04:00:10 -0500</pubDate>
+        <link>http://kaosx.us/news/2014/xorg/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2014/xorg/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early January Status</title>
+        <description>&lt;p&gt;Welcome to the first News item for 2014.&lt;br /&gt; No major announcements this time, maybe a sign of a maturing distribution?&lt;/p&gt; &lt;p&gt;As always, the repositories are steadily rolling, largest update is the currently tested xorg 1.15 group. Linux-next running on 3.13 is working smooth, so should be no issue to move the stable kernel to 3.13 around 3.13.5 or 6. Other bigger updates were ilmbase/openexr, libxcb, postgresql, kmod and mkinitcpio.&lt;/p&gt; &lt;p&gt;Octopi received a face-lift with a new group widget.&lt;a href=&quot;http://kaosx.us/wp-content/uploads/2014/01/snapshot11.png&quot;&gt;&lt;img src=&quot;http://kaosx.us/wp-content/uploads/2014/01/snapshot11-300x208.png&quot; alt=&quot;snapshot11&quot; width=&quot;300&quot; height=&quot;208&quot; class=&quot;alignright size-medium wp-image-1031&quot; /&gt;&lt;/a&gt; The addition of pkgfile, and a change of how the databases are...</description>
+        <pubDate>Sun, 05 Jan 2014 23:28:38 -0500</pubDate>
+        <link>http://kaosx.us/news/2014/january/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2014/january/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>KaOS 2013.12 ISO released with KDE 4.12.0</title>
+        <description>&lt;p&gt;Late October work started to get a first pre-build for KDE 4.12 up (beta1 at that time). Since then five full versions of this new major release have been built and well tested, so with the announcement today of&lt;a class=&quot;fancybox-iframe&quot; href=&quot;http://kde.org/announcements/4.12/&quot; title=&quot;kde 4.12.0&quot;&gt; KDE releasing 4.12&lt;/a&gt;, KaOS is ready and happy to &lt;a href=&quot;http://kaosx.us/wp-content/uploads/2013/12/kate.png&quot;&gt;&lt;img src=&quot;http://kaosx.us/wp-content/uploads/2013/12/kate-300x168.png&quot; alt=&quot;kate&quot; width=&quot;300&quot; height=&quot;168&quot; class=&quot;alignleft size-medium wp-image-1015&quot; /&gt;&lt;/a&gt;present you with a new stable ISO including this version. Some highlights of this release are substantial improvements in the KDE PIM stack, giving much better performance and many new features. Kate streamlined the integration of Python plugins and...</description>
+        <pubDate>Wed, 18 Dec 2013 19:56:47 -0500</pubDate>
+        <link>http://kaosx.us/news/2013/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2013/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early December Status</title>
+        <description>&lt;p&gt;KDE 4.11.4 was &lt;a class=&quot;fancybox-iframe&quot; href=&quot;http://kde.org/announcements/announce-4.11.4.php&quot; title=&quot;kde 4.11.4&quot;&gt;announced today&lt;/a&gt;, with it came some 65 bug fixes. After almost a week in the KaOS build repository, it is now available for all users. This will be the last of KDE 4.11 for KaOS. KDE 4.12 has been tested the last four weeks, and is rock solid, so the next ISO will be released with KDE 4.12 in about two weeks, right around the release announcement of KDE for this major update.&lt;/p&gt; &lt;p&gt;Many test have been run with linux 3.12 too, this is the first kernel that truly works on having hybrid...</description>
+        <pubDate>Wed, 04 Dec 2013 04:54:42 -0500</pubDate>
+        <link>http://kaosx.us/news/2013/december/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2013/december/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Server back</title>
+        <description>&lt;p&gt;Due to high traffic, the server had issues with the databases, you might have seen the error page for it when trying to visit the Home page.  Repositories and the Online Package viewer were not affected.&lt;br /&gt;
+All is back up now, but work will continue to prevent Mysql issues in the future.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 Nov 2013 17:04:24 -0500</pubDate>
+        <link>http://kaosx.us/news/2013/server/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2013/server/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early November Status</title>
+        <description>&lt;p&gt;A little later News article then the usual first week of the month. It was thought best to combine, show what has been worked on, and make the announcement of a first publicly released ISO.&lt;/p&gt; &lt;p&gt;The regular updates to the repositories continued, these include KDE 4.11.3, Linux 3.11.7, new phonon packages, latest GIMP, Chrome among the about 900 updated. KDE 4.11.80 Beta1 is a new addition for the more adventurous who want to try the very latest.&lt;/p&gt; &lt;p&gt;But the last two weeks most work has been geared toward getting KaOS-2013.11 ISO as much ready as possible for a public release.&lt;/p&gt;...</description>
+        <pubDate>Sun, 10 Nov 2013 21:43:35 -0500</pubDate>
+        <link>http://kaosx.us/news/2013/november/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2013/november/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Second October snapshot ISO</title>
+        <description>&lt;p&gt;Bi-weekly did not work for this release, updates/rebuilds to systemd/toolchain/util-linux among many other core packages, changed a lot of how the live system started all the needed services. About 25 ISO builds were needed to get all working as before again.&lt;/p&gt; &lt;p&gt;After the October 1st release, many users came with suggestions/requests to add certain applications. Most of these were added over the last weeks. Examples vokoscreen, virtualbox, mkvtoolnix, handbrake. Expect a few more request to be filled soon (engineering applications for one, probably 4-5 of the more well known games too). End goal is around 2000-2200 packages in the repositories,...</description>
+        <pubDate>Fri, 25 Oct 2013 15:06:05 -0400</pubDate>
+        <link>http://kaosx.us/news/2013/kaos10/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2013/kaos10/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early October Status</title>
+        <description>&lt;p&gt;One thing really lacking for KaOS was addressed by Mcder3, he created a logo for this distribution:&lt;br /&gt; &lt;a href=&quot;http://kaosx.us/wp-content/uploads/2013/10/KaOS-BIG.png&quot;&gt;&lt;img src=&quot;http://kaosx.us/wp-content/uploads/2013/10/KaOS-BIG-300x112.png&quot; alt=&quot;KaOS-BIG&quot; width=&quot;150&quot; height=&quot;56&quot; class=&quot;alignleft size-medium wp-image-770&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://kaosx.us/wp-content/uploads/2013/10/KaOS-BIG-White.png&quot;&gt;&lt;img src=&quot;http://kaosx.us/wp-content/uploads/2013/10/KaOS-BIG-White-300x112.png&quot; alt=&quot;KaOS-BIG-White&quot; width=&quot;150&quot; height=&quot;56&quot; class=&quot;alignleft size-medium wp-image-771&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://kaosx.us/wp-content/uploads/2013/10/OS.png&quot;&gt;&lt;img src=&quot;http://kaosx.us/wp-content/uploads/2013/10/OS-150x150.png&quot; alt=&quot;OS&quot; width=&quot;56&quot; height=&quot;56&quot; class=&quot;alignleft size-thumbnail wp-image-772&quot; /&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;The repositories have grown to 1800 packages. All language packs are now available for KDE, Calligra, Libreoffice, Firefox and Thunderbird. Debug packages are available for all the base KDE packages.&lt;/p&gt; &lt;p&gt;September brought quite a bit of feedback on KaOS from a much more diverse group of international users (initially KaOS was just...</description>
+        <pubDate>Tue, 01 Oct 2013 19:05:04 -0400</pubDate>
+        <link>http://kaosx.us/news/2013/october/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2013/october/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>September 17 snapshot ISO</title>
+        <description>&lt;p&gt;Next in the bi-weekly ISO releases is a September 17 release. KDE 4.11.1 ended up with quite a few regressions from upstream, about all&lt;a href=&quot;http://kaosx.us/wp-content/uploads/2013/09/snapshot1.png&quot;&gt;&lt;img src=&quot;http://kaosx.us/wp-content/uploads/2013/09/snapshot1-300x187.png&quot; alt=&quot;snapshot1&quot; width=&quot;300&quot; height=&quot;187&quot; class=&quot;alignright size-medium wp-image-736&quot; /&gt;&lt;/a&gt; have been addressed and all affected KDE 4.11.1 packages have been rebuilt with the needed patches.&lt;/p&gt; &lt;p&gt;Kernel moved to linux 3.10.11 (linux-next is following 3.11 now). Latest Calligra is available on this ISO (2.7.3), all available Calligra language packs added to the repository. About 250 more packages are available in the repo's since the last ISO. Clementine 1.2.0 is available on the ISO as a preview to...</description>
+        <pubDate>Tue, 17 Sep 2013 21:08:41 -0400</pubDate>
+        <link>http://kaosx.us/news/2013/kaos09/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2013/kaos09/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early September Status</title>
+        <description>&lt;p&gt;You might have noticed, you were re-directed to a new domain name, maybe noticed a whole new name for the Distribution too.&lt;/p&gt; &lt;p&gt;While this distribution is not really public and has a small user base, having a name that could cause confusion with being an official KDE distribution, was not a real concern. But after the ISO from August 21, many more discovered KdeOS. That meant now is the time to do a name change, so there will be no copyright issues, thus the switch to &lt;strong&gt;KaOS&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;This was not the only change. A better server was needed. All moved...</description>
+        <pubDate>Sun, 01 Sep 2013 20:48:11 -0400</pubDate>
+        <link>http://kaosx.us/news/2013/september/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2013/september/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>ISO</title>
+        <description>&lt;p&gt;As stated in the Early August news item, next needed step was to get an installer functioning for KaOS.&lt;br /&gt; The Linux Mint installer was the easiest to make work, but it integrates really badly. Biggest issue with that one though, it inherits the settings of all Ubuntu derivatives, it gives the users full root privileges by default, so this installer will not be used.&lt;br /&gt; Tribe, the installer from the Chakra-Project, took a bit more to adapt to KaOS, but is working well now. It has major limitations regarding disk encryption, filesystems used, automated partitioning, so is not a...</description>
+        <pubDate>Wed, 21 Aug 2013 16:33:46 -0400</pubDate>
+        <link>http://kaosx.us/news/2013/kaos08/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2013/kaos08/</guid>
+        
+        
+        <category>Guides</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early August Status</title>
+        <description>&lt;p&gt;The goal of having about 1500 packages available in the repositories has been reached ( this does not include any language packs yet). Most packages are steadily rolling, which will be the norm for KaOS. Expect that most in all repo's will follow upstream releases within a month at most. Some will be updated to the more stable, but still fully maintained versions (example atm libpng 1.5.x vs libpng 1.6.x and samba 3.6.x vs 4.0.x).&lt;/p&gt; &lt;p&gt;When considering the relatively low number of total available packaged, please keep one thing in mind. Since there is a focus on one toolkit, one...</description>
+        <pubDate>Wed, 07 Aug 2013 02:24:09 -0400</pubDate>
+        <link>http://kaosx.us/news/2013/august/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2013/august/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early July Status</title>
+        <description>&lt;p&gt;Trying to work out the best update model for the different repo's is starting to take shape for core and main. &amp;nbsp;There will be two kernels in use, one stable, well-tested, only available once a new major release reaches 3.x.8 or above, the unstable kernel is linux-next, and is fully following upstream releases. &amp;nbsp;This way, linux-next will be an excellent test ground for the next stable release.&lt;/p&gt; &lt;p&gt;KDE has made 4.11 pre-releases available, and after testing those for 3 weeks, there are no issues to stop from moving to 4.11 early, 4.10.90 has moved to the stable repo's.&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;http://kaosx.us/wp-content/uploads/2013/07/screenshot2.png&quot;...</description>
+        <pubDate>Sat, 06 Jul 2013 17:38:33 -0400</pubDate>
+        <link>http://kaosx.us/news/2013/july/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2013/july/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early June status</title>
+        <description>&lt;p&gt;With the move of KDE 4.10.4 to the stable repo's, some two hundred more packages moved, with those, every package in every repository is build from scratch for KaOS. Starting with the gcc 4.8/glibc 2.17 based toolchain.&lt;br /&gt;
+The total amount of packages stands at a little over 1300 now. Once the language packs for just KDE, Calligra, LibreOffice and Firefox are added, that number will jump with 400-500, but the goal of about 1500 packages, does not include those.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 06 Jun 2013 03:15:54 -0400</pubDate>
+        <link>http://kaosx.us/news/2013/june/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2013/june/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Early May status</title>
+        <description>&lt;p&gt;Most of the infrastructure for KaOS is up. Server is setup with the repositories fully accessible. All used projects are ported to github, which is also the bugtracker for now. The framework for the website is done, this includes a fully functional forum and very complete online package database.&lt;br /&gt; Work is continuing to build the repo's from the ground up to an initial state of around 1500 packages. Around 800 are done so far (only a few dozen are left in core).&lt;br /&gt; Basics are done for creating Live/Installation Media, next here will be to make a decision on...</description>
+        <pubDate>Sat, 04 May 2013 03:52:08 -0400</pubDate>
+        <link>http://kaosx.us/news/2013/may/</link>
+        <guid isPermaLink="true">http://kaosx.us/news/2013/may/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+      
+    
+  </channel>
+</rss>

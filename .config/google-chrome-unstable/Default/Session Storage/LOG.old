@@ -1,0 +1,21 @@
+2017/04/16-19:28:05.564 328 Reusing MANIFEST /home/mastarch/.config/google-chrome-unstable/Default/Session Storage/MANIFEST-000001
+2017/04/16-19:28:05.565 328 Recovering log #3343
+2017/04/16-19:28:05.566 328 Reusing old log /home/mastarch/.config/google-chrome-unstable/Default/Session Storage/003343.log 
+2017/04/16-19:30:03.113 960 Level-0 table #3347: started
+2017/04/16-19:30:03.125 960 Level-0 table #3347: 103518 bytes OK
+2017/04/16-19:30:03.127 960 Delete type=0 #3343
+2017/04/16-19:32:49.504 960 Level-0 table #3349: started
+2017/04/16-19:32:49.519 960 Level-0 table #3349: 70157 bytes OK
+2017/04/16-19:32:49.521 960 Delete type=0 #3346
+2017/04/16-19:32:49.522 960 Compacting 4@0 + 1@1 files
+2017/04/16-19:32:49.602 960 Generated table #3350@0: 5777 keys, 271138 bytes
+2017/04/16-19:32:49.602 960 Compacted 4@0 + 1@1 files => 271138 bytes
+2017/04/16-19:32:49.603 960 compacted to: files[ 0 1 2 0 0 0 0 ]
+2017/04/16-19:32:49.604 960 Delete type=2 #3340
+2017/04/16-19:32:49.605 960 Delete type=2 #3342
+2017/04/16-19:32:49.609 960 Delete type=2 #3344
+2017/04/16-19:32:49.610 960 Delete type=2 #3347
+2017/04/16-19:32:49.610 960 Delete type=2 #3349
+2017/04/17-08:18:51.479 960 Level-0 table #3352: started
+2017/04/17-08:18:51.502 960 Level-0 table #3352: 269350 bytes OK
+2017/04/17-08:18:51.505 960 Delete type=0 #3348

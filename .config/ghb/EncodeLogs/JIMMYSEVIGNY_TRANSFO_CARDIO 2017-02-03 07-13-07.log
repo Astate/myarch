@@ -1,0 +1,292 @@
+Handbrake Version: 20170123054450-b656a1a-master (2017012301)
+[07:13:07] gtkgui: Modified Preset: /General/Fast 1080p30
+[07:13:07] 1 job(s) to process
+[07:13:07] json job:
+{
+    "Audio": {
+        "AudioList": [
+            {
+                "Bitrate": 160,
+                "CompressionLevel": -1.0,
+                "DRC": 0.0,
+                "DitherMethod": "auto",
+                "Encoder": "av_aac",
+                "Gain": 0.0,
+                "Mixdown": "stereo",
+                "NormalizeMixLevel": false,
+                "PresetEncoder": "av_aac",
+                "Quality": -3.0,
+                "Samplerate": "auto",
+                "Track": 0
+            }
+        ],
+        "CopyMask": [
+            "copy:aac"
+        ],
+        "FallbackEncoder": "av_aac"
+    },
+    "Destination": {
+        "ChapterList": [
+            {
+                "Name": "Chapter 1"
+            },
+            {
+                "Name": "Chapter 2"
+            },
+            {
+                "Name": "Chapter 3"
+            },
+            {
+                "Name": "Chapter 4"
+            },
+            {
+                "Name": "Chapter 5"
+            },
+            {
+                "Name": "Chapter 6"
+            }
+        ],
+        "ChapterMarkers": true,
+        "File": "/home/mastarch/Vidéos/JIMMYSEVIGNY_TRANSFO_CARDIO.mkv",
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": false
+        },
+        "Mux": "mkv"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 3,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 4,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 2,
+                    "rate": "27000000/900000"
+                }
+            },
+            {
+                "ID": 11,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 480,
+                    "width": 720
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "Name": "JIMMYSEVIGNY_TRANSFO_CARDIO"
+    },
+    "PAR": {
+        "Den": 27,
+        "Num": 32
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/media/HD/Series/Jimmy Sévigny transFORMation/JIMMYSEVIGNY_TRANSFO_CARDIO.ISO",
+        "Range": {
+            "End": 6,
+            "Start": 1,
+            "Type": "chapter"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": false,
+            "Forced": false
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorMatrixCode": 0,
+        "Encoder": "x264",
+        "Level": "4.0",
+        "OpenCL": false,
+        "Options": "",
+        "Preset": "fast",
+        "Profile": "main",
+        "QSV": {
+            "AsyncDepth": 4,
+            "Decode": false
+        },
+        "Quality": 22.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[07:13:07] CPU: AMD Athlon(tm) II X4 630 Processor
+[07:13:07]  - logical processor count: 4
+[07:13:07] hb_scan: path=/media/HD/Series/Jimmy Sévigny transFORMation/JIMMYSEVIGNY_TRANSFO_CARDIO.ISO, title_index=1
+disc.c:352: error opening file BDMV/index.bdmv
+disc.c:352: error opening file BDMV/BACKUP/index.bdmv
+[07:13:07] bd: not a bd - trying as a stream/file instead
+libdvdnav: Using dvdnav version 5.0.1
+libdvdread: Encrypted DVD support unavailable.
+libdvdnav: DVD Title: JIMMYSEVIGNY_TRANSFO_CARDIO
+libdvdnav: DVD Serial Number: 495fb733        
+libdvdnav: DVD Title (Alternative): JIMMYSEVIGNY_TRANSFO_CARDIO
+libdvdnav: DVD disk reports itself with Region mask 0x00000000. Regions: 1 2 3 4 5 6 7 8
+libdvdread: Encrypted DVD support unavailable.
+[07:13:07] scan: DVD has 5 title(s)
+[07:13:07] scan: scanning title 1
+[07:13:07] scan: opening IFO for VTS 1
+[07:13:07] scan: duration is 00:31:17 (1877567 ms)
+[07:13:07] pgc_id: 1, pgn: 1: pgc: 0x7f437c00ef90
+[07:13:07] scan: vts=1, ttn=1, cells=0->5, blocks=0->1032870, 1032871 blocks
+[07:13:07] scan: checking audio 1
+[07:13:07] scan: id=0x80bd, lang=Unknown (AC3), 3cc=und ext=0
+[07:13:07] scan: checking audio 2
+[07:13:07] scan: id=0x81bd, lang=Unknown (AC3), 3cc=und ext=0
+[07:13:07] scan: title 1 has 6 chapters
+[07:13:07] scan: chap 1 c=0->0, b=0->148722 (148723), 267000 ms
+[07:13:07] scan: chap 2 c=1->1, b=148723->388514 (239792), 439500 ms
+[07:13:07] scan: chap 3 c=2->2, b=388515->637487 (248973), 445500 ms
+[07:13:07] scan: chap 4 c=3->3, b=637488->880222 (242735), 424000 ms
+[07:13:07] scan: chap 5 c=4->4, b=880223->1032863 (152641), 301166 ms
+[07:13:07] scan: chap 6 c=5->5, b=1032864->1032870 (7), 400 ms
+[07:13:07] scan: aspect = 16:9
+[07:13:07] scan: decoding previews for title 1
+libdvdnav: DVD disk reports itself with Region mask 0x00000000. Regions: 1 2 3 4 5 6 7 8
+[07:13:07] scan: title angle(s) 1
+[ac3 @ 0x7f437c1362e0] frame sync error
+[07:13:07] scan: audio 0x81bd: ac3, rate=48000Hz, bitrate=448000 Unknown (AC3) (2.0 ch)
+[ac3 @ 0x7f437c1362e0] frame sync error
+[07:13:07] scan: audio 0x80bd: ac3, rate=48000Hz, bitrate=448000 Unknown (AC3) (2.0 ch)
+[07:13:07] scan: 10 previews, 720x480, 29,970 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 32:27
+[07:13:08] libhb: scan thread found 1 valid title(s)
+[07:13:08] starting job
+[07:13:08] decomb filter thread started for segment 0
+[07:13:08] decomb filter thread started for segment 1
+[07:13:08] decomb check thread started for segment 0
+[07:13:08] decomb filter thread started for segment 2
+[07:13:08] decomb check thread started for segment 1
+[07:13:08] decomb check thread started for segment 2
+[07:13:08] decomb filter thread started for segment 3
+[07:13:08] decomb check thread started for segment 3
+[07:13:08] mask filter thread started for segment 0
+[07:13:08] mask filter thread started for segment 1
+[07:13:08] mask filter thread started for segment 2
+[07:13:08] mask filter thread started for segment 3
+[07:13:08] mask erode thread started for segment 0
+[07:13:08] mask erode thread started for segment 1
+[07:13:08] mask erode thread started for segment 2
+[07:13:08] mask erode thread started for segment 3
+[07:13:08] mask dilate thread started for segment 0
+[07:13:08] mask dilate thread started for segment 1
+[07:13:08] mask dilate thread started for segment 2
+[07:13:08] mask dilate thread started for segment 3
+[07:13:08] yadif thread started for segment 1
+[07:13:08] yadif thread started for segment 0
+[07:13:08] yadif thread started for segment 2
+[07:13:08] yadif thread started for segment 3
+[07:13:08] job configuration:
+[07:13:08]  * source
+[07:13:08]    + /media/HD/Series/Jimmy Sévigny transFORMation/JIMMYSEVIGNY_TRANSFO_CARDIO.ISO
+[07:13:08]    + title 1, chapter(s) 1 to 6
+[07:13:08]  * destination
+[07:13:08]    + /home/mastarch/Vidéos/JIMMYSEVIGNY_TRANSFO_CARDIO.mkv
+[07:13:08]    + container: Matroska (libavformat)
+[07:13:08]      + chapter markers
+[07:13:08]  * video track
+[07:13:08]    + decoder: mpeg2video
+[07:13:08]      + bitrate 8500 kbps
+[07:13:08]    + filters
+[07:13:08]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[07:13:08]      + Decomb (mode=39)
+[07:13:08]      + Framerate Shaper (mode=2:rate=27000000/900000)
+[07:13:08]        + frame rate: 29,970 fps -> peak rate limited to 30,000 fps
+[07:13:08]      + Crop and Scale (width=720:height=480:crop-top=0:crop-bottom=0:crop-left=0:crop-right=0)
+[07:13:08]        + source: 720 * 480, crop (0/0/0/0): 720 * 480, scale: 720 * 480
+[07:13:08]    + Output geometry
+[07:13:08]      + storage dimensions: 720 x 480
+[07:13:08]      + pixel aspect ratio: 32 : 27
+[07:13:08]      + display dimensions: 853 x 480
+[07:13:08]    + encoder: H.264 (libx264)
+[07:13:08]      + preset:  fast
+[07:13:08]      + profile: main
+[07:13:08]      + level:   4.0
+[07:13:08]      + quality: 22,00 (RF)
+[07:13:08]  * audio track 1
+[07:13:08]    + decoder: Unknown (AC3) (2.0 ch) (track 1, id 0x80bd)
+[07:13:08]      + bitrate: 448 kbps, samplerate: 48000 Hz
+[07:13:08]    + mixdown: Stereo
+[07:13:08]    + encoder: AAC (libavcodec)
+[07:13:08]      + bitrate: 160 kbps, samplerate: 48000 Hz
+libdvdnav: Using dvdnav version 5.0.1
+libdvdread: Encrypted DVD support unavailable.
+libdvdnav: DVD Title: JIMMYSEVIGNY_TRANSFO_CARDIO
+libdvdnav: DVD Serial Number: 495fb733        
+libdvdnav: DVD Title (Alternative): JIMMYSEVIGNY_TRANSFO_CARDIO
+libdvdnav: DVD disk reports itself with Region mask 0x00000000. Regions: 1 2 3 4 5 6 7 8
+libdvdread: Encrypted DVD support unavailable.
+libdvdnav: DVD disk reports itself with Region mask 0x00000000. Regions: 1 2 3 4 5 6 7 8
+[07:13:08] sync: expecting 56270 video frames
+[07:13:08] encx264: min-keyint: 30, keyint: 300
+[07:13:08] encx264: encoding at constant RF 22,000000
+[07:13:08] encx264: unparsed options: level=4.0:ref=2:8x8dct=0:weightp=1:subme=6:vbv-bufsize=25000:vbv-maxrate=20000:rc-lookahead=30
+x264 [info]: using SAR=32/27
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast LZCNT
+x264 [info]: profile Main, level 4.0
+[07:13:08] sync: first pts audio 0x80bd is 0
+[07:13:08] sync: first pts video is 6006
+[07:13:08] sync: "Chapter 1" (1) at frame 1 time 6006
+[07:15:03] sync: "Chapter 2" (2) at frame 8011 time 24060036
+[07:18:17] sync: "Chapter 3" (3) at frame 21196 time 63654591
+[07:21:26] sync: "Chapter 4" (4) at frame 34561 time 103789686
+[07:24:34] sync: "Chapter 5" (5) at frame 47281 time 141987846
+[07:26:26] reader: done. 1 scr changes
+[07:26:27] work: average encoding speed for job is 70,486107 fps
+[07:26:27] comb detect: heavy 2216 | light 4114 | uncombed 49982 | total 56312
+[07:26:27] decomb: deinterlaced 2216 | blended 4114 | unfiltered 49982 | total 56312
+[07:26:27] vfr: 56312 frames output, 0 dropped and 0 duped for CFR/PFR
+[07:26:27] vfr: lost time: 0 (0 frames)
+[07:26:27] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[07:26:27] ac3-decoder done: 58721 frames, 0 decoder errors
+[07:26:27] mpeg2video-decoder done: 56314 frames, 0 decoder errors
+[07:26:27] sync: got 56312 frames, 56270 expected
+[07:26:27] sync: framerate min 29,970 fps, max 29,970 fps, avg 29,970 fps
+x264 [info]: frame I:295   Avg QP:20,00  size: 29362
+x264 [info]: frame P:23757 Avg QP:23,57  size:  7390
+x264 [info]: frame B:32260 Avg QP:25,47  size:  1906
+x264 [info]: consecutive B-frames:  6,9% 41,3% 26,8% 25,0%
+x264 [info]: mb I  I16..4: 23,9%  0,0% 76,1%
+x264 [info]: mb P  I16..4:  2,9%  0,0%  6,1%  P16..4: 37,9% 18,4%  9,7%  0,0%  0,0%    skip:24,9%
+x264 [info]: mb B  I16..4:  1,9%  0,0%  0,5%  B16..8: 22,3%  8,0%  0,7%  direct: 7,4%  skip:59,3%  L0:36,6% L1:47,8% BI:15,5%
+x264 [info]: coded y,uvDC,uvAC intra: 51,5% 62,4% 22,2% inter: 11,7% 17,4% 0,9%
+x264 [info]: i16 v,h,dc,p: 28% 38% 18% 17%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 25% 19% 19%  5%  8%  8%  6%  6%  4%
+x264 [info]: i8c dc,h,v,p: 56% 20% 20%  5%
+x264 [info]: Weighted P-Frames: Y:0,3% UV:0,1%
+x264 [info]: ref P L0: 74,4% 25,6%
+x264 [info]: ref B L0: 85,2% 14,8%
+x264 [info]: ref B L1: 98,9%  1,1%
+x264 [info]: kb/s:1046,13
+[07:26:27] mux: track 0, 56312 frames, 245698806 bytes, 1046,04 kbps, fifo 4096
+[07:26:27] mux: track 1, 88082 frames, 37670687 bytes, 160,38 kbps, fifo 8192
+[07:26:27] libhb: work result = 0

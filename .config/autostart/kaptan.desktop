@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Qt;Utility;
+Exec=kaptan
+GenericName=Kaptan Desktop
+GenericName[tr_TR]=Kaptan Masaüstü
+Hidden=true
+Icon=kaptan
+Name=Kaptan
+Type=Application
+X-KDE-StartupNotify=true
+X-KDE-autostart-after=plasma-desktop
+X-KDE-autostart-condition=kaptanrc:General:RunOnStart:true

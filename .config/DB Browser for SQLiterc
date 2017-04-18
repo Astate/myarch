@@ -1,0 +1,7 @@
+[FileDialogSize]
+Height 900=480
+Width 1600=640
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/rdvc_sqlite.db,file:///media/HD/BackupServer1/daily.3/rdvc.sql,file:$HOME/PycharmProjects/scarping/craigslist_sample/craiglist.db
+Recent URLs[$e]=file:///media/HD/BackupServer1/daily.3/,file:$HOME/PycharmProjects/scarping/craigslist_sample/,file:///media/HD/BackupServer1/daily.3/mysql/

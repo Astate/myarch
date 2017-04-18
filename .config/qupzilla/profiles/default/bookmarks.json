@@ -1,0 +1,131 @@
+{
+    "roots": {
+        "bookmark_bar": {
+            "children": [
+                {
+                    "description": "KaOS Homepage",
+                    "keyword": "home",
+                    "name": "KaOS",
+                    "type": "url",
+                    "url": "http://kaosx.us",
+                    "visit_count": 0
+                },
+                {
+                    "description": "KaOS Homepage",
+                    "keyword": "forum",
+                    "name": "KaOS Forum",
+                    "type": "url",
+                    "url": "http://forum.kaosx.us",
+                    "visit_count": 1
+                },
+                {
+                    "description": "KaOS IRC Channel",
+                    "keyword": "irc",
+                    "name": "IRC",
+                    "type": "url",
+                    "url": "https://kiwiirc.com/client/irc.freenode.net/#kaosx",
+                    "visit_count": 0
+                },
+                {
+                    "type": "separator"
+                },
+                {
+                    "description": "Youtube HTML5",
+                    "keyword": "youtube",
+                    "name": "Youtube HTML5",
+                    "type": "url",
+                    "url": "http://www.youtube.com/html5/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "Google",
+                    "keyword": "google",
+                    "name": "Google",
+                    "type": "url",
+                    "url": "http://www.google.com/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "QupZilla Homepage",
+                    "keyword": "qz-home",
+                    "name": "QupZilla Home",
+                    "type": "url",
+                    "url": "https://www.qupzilla.com/",
+                    "visit_count": 0
+                }
+            ],
+            "description": "Marque-pages placés dans la barre d'outils",
+            "expanded": true,
+            "expanded_sidebar": true,
+            "name": "Barre d'outils marque-pages",
+            "type": "folder"
+        },
+        "bookmark_menu": {
+            "children": [
+            ],
+            "description": "Marque-pages placés dans le menu des marque-pages",
+            "expanded": true,
+            "expanded_sidebar": true,
+            "name": "Menu des marque-pages",
+            "type": "folder"
+        },
+        "other": {
+            "children": [
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Zone Telechargement - Site de Téléchargement Gratuit",
+                    "type": "url",
+                    "url": "http://www.zone-telechargement.ws/homep.html",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Lightberry",
+                    "type": "url",
+                    "url": "https://lightberry.eu/#what-is-it",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Films Torrent: Téléchargement Gratuit",
+                    "type": "url",
+                    "url": "http://www.films-torrent.org/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Extreme Download - Meilleur site de téléchargement gratuit",
+                    "type": "url",
+                    "url": "https://www.extreme-down.cc/home.html",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Wawacity - Site de Téléchargement Gratuit",
+                    "type": "url",
+                    "url": "http://www.wawacity.su/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "NexTorrent: Téléchargement de Torrent",
+                    "type": "url",
+                    "url": "http://www.nextorrent.net/",
+                    "visit_count": 0
+                }
+            ],
+            "description": "Tous les autres marque-pages",
+            "expanded": true,
+            "expanded_sidebar": true,
+            "name": "Marque-pages non classés",
+            "type": "folder"
+        }
+    },
+    "version": 1
+}

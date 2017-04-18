@@ -1,0 +1,39 @@
+[22:37:14] gtkgui: HandBrake 20170226224014-71afd92-master (2017022601) - Linux x86_64 - https://handbrake.fr
+[22:37:15] hb_init: starting libhb thread
+[22:37:15] hb_init: starting libhb thread
+[22:37:15] hb_init: starting libhb thread
+[22:37:16] CPU: AMD Athlon(tm) II X4 630 Processor
+[22:37:16]  - logical processor count: 4
+[22:37:16] hb_scan: path=/home/mastarch/Téléchargements/83311.mp4, title_index=0
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:274: failed opening UDF image /home/mastarch/Téléchargements/83311.mp4
+disc.c:352: error opening file BDMV/index.bdmv
+disc.c:352: error opening file BDMV/BACKUP/index.bdmv
+[22:37:16] bd: not a bd - trying as a stream/file instead
+libdvdnav: Using dvdnav version 5.0.1
+libdvdread: Encrypted DVD support unavailable.
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[22:37:16] dvd: not a dvd - trying as a stream/file instead
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/mastarch/Téléchargements/83311.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf56.15.102
+  Duration: 01:43:52.05, start: 0.023220, bitrate: 620 kb/s
+    Stream #0:0(und): Video: h264 (High) [avc1 / 0x31637661]
+      yuv420p, 480x360 [PAR 1:1 DAR 4:3], 519 kb/s
+      30 fps, 15360 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+    Stream #0:1(und): Audio: aac (LC) [mp4a / 0x6134706D]
+      44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+[22:37:16] scan: decoding previews for title 1
+[22:37:16] scan: audio 0x1: aac, rate=44100Hz, bitrate=94057 Unknown (AAC) (1.0 ch)
+[22:37:16] scan: 10 previews, 480x360, 30,000 fps, autocrop = 0/0/0/0, aspect 4:3, PAR 1:1
+[22:37:16] libhb: scan thread found 1 valid title(s)
